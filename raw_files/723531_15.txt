@@ -1,0 +1,101 @@
+In the normal course of business, the Company makes representations and warranties that guarantee the performance of services under service arrangements with clients. Historically, there have been no material losses related to such guarantees. The Company has also entered into indemnification agreements with its officers and directors, which require the Company to defend and, if necessary, indemnify these individuals for certain pending or future claims as they relate to their services provided to the Company.
+The Company currently self-insures the deductible portion of various insured exposures under certain corporate and PEO employee benefit plans. The Company’s estimated loss exposure under these insurance arrangements is recorded in other current liabilities on the Consolidated Balance Sheets. Historically, the amounts accrued have not been material and were not material as of May 31, 2020. The Company also maintains insurance coverage in addition to its purchased primary insurance policies for gap coverage for employment practices liability, errors and omissions, warranty liability, theft and embezzlement, cyber threats, and acts of terrorism; and capacity for deductibles and self-insured retentions through its captive insurance company.
+Note S - Quarterly Financial Data (Unaudited)
+In millions, except per share amounts
+(1)Each quarter is a discrete period and the sum of the four quarters’ basic and diluted earnings per share amounts may not equal the full year amount.
+(2)Total net realized gains/(losses) on the combined funds held for clients and corporate investment portfolios.
+Schedule II - Valuation and Qualifying Accounts
+PAYCHEX, INC.
+CONSOLIDATED FINANCIAL STATEMENT SCHEDULE
+FOR THE YEAR ENDED MAY 31,
+(In millions)
+(1)Amounts related to business acquisitions in fiscal 2019 and the reclassification of the reserve for client fund losses in fiscal 2020.
+(2)Uncollectible amounts written off, net of recoveries, and other adjustments.
+Item 9.
+section_9: Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure
+None.
+Item 9A.
+section_9A: Item 9A. Controls and Procedures
+Disclosure Controls and Procedures: Disclosure controls and procedures are designed with the objective of ensuring that information required to be disclosed in the Company’s reports filed under the Exchange Act, such as this report, is recorded, processed, summarized, and reported within the time periods specified in the SEC’s rules and forms. Disclosure controls and procedures are also designed with the objective of ensuring that such information is accumulated and communicated to the Company’s management, including the Company’s principal executive officer and principal financial officer, as appropriate, to allow timely decisions regarding required disclosure.
+Conclusion Regarding the Effectiveness of Disclosure Controls and Procedures: As of the end of the period covered by this report, the Company carried out an evaluation, under the supervision and with the participation of the Company’s principal executive officer and principal financial officer, of the effectiveness of disclosure controls and procedures as defined in Rules 13a-15(e) and 15d-15(e) of the Exchange Act. Based on such evaluation, the Company’s principal executive officer and principal financial officer have concluded that as of May 31, 2020, the end of the period covered by this report, the Company’s disclosure controls and procedures were effective.
+Changes in Internal Control Over Financial Reporting: The Company also carried out an evaluation of the internal control over financial reporting to determine whether any changes occurred during the fiscal quarter ended May 31, 2020. Based on such evaluation, there have been no changes in the Company’s internal control over financial reporting that occurred during the Company’s most recently completed fiscal quarter ended May 31, 2020, that materially affected, or are reasonably likely to materially affect, the Company’s internal control over financial reporting.
+Internal Control Over Financial Reporting: The Report on Management’s Assessment of Internal Control Over Financial Reporting and the Report of Independent Registered Public Accounting Firm are included in Part II, Item 8 of this Form 10-K.
+Item 9B.
+section_9B: Item 9B. Other Information
+None.
+PART III
+Item 10.
+section_10: Item 10. Directors, Executive Officers and Corporate Governance
+The following table shows the executive officers of the Company as of May 31, 2020, and information regarding their positions and business experience. Such executive officers hold principal policy-making powers at the Company.
+The additional information required by this item is set forth in the Company’s Definitive Proxy Statement for its 2020 Annual Meeting of Stockholders, anticipated to be held on or about October 15, 2020, in the sections “PROPOSAL 1: ELECTION OF DIRECTORS FOR A ONE-YEAR TERM,” “CORPORATE GOVERNANCE,” and “CODE OF BUSINESS ETHICS AND CONDUCT” and is incorporated herein by reference.
+Item 11.
+section_11: Item 11. Executive Compensation
+The information required by this item is set forth in the Company’s Definitive Proxy Statement for its 2020 Annual Meeting of Stockholders, anticipated to be held on or about October 15, 2020, in the sections “COMPENSATION DISCUSSION AND ANALYSIS,” “NAMED EXECUTIVE OFFICER COMPENSATION,” “DIRECTOR COMPENSATION FOR THE FISCAL YEAR ENDED May 31, 2020,” “THE GOVERNANCE AND COMPENSATION COMMITTEE REPORT” and the sub-heading “Governance and Compensation Committee Interlocks and Insider Participation” within the section “CORPORATE GOVERNANCE” and is incorporated herein by reference.
+Item 12.
+section_12: Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+The information required by this item is set forth below and in the Company’s Definitive Proxy Statement for its 2020 Annual Meeting of Stockholders, anticipated to be held on or about October 15, 2020, under the section “BENEFICIAL OWNERSHIP OF PAYCHEX COMMON STOCK,” and is incorporated herein by reference.
+The Company maintains equity compensation plans in the form of stock incentive plans. Under the Paychex, Inc. 2002 Stock Incentive Plan, as amended and restated effective October 14, 2015 (the “2002 Plan”), non-qualified or incentive stock options, restricted stock, restricted stock units, performance shares, and performance stock options have been awarded to employees and the Board. The 2002 Plan was adopted on July 9, 2015 by the Board and became effective upon stockholder approval at the Company’s Annual Meeting of Stockholders held on October 14, 2015. Refer to Note F of the Notes to Consolidated Financial Statements, contained in Item 8 of this Form 10-K, for more information on the Company’s stock incentive plans.
+The following table details information on securities authorized for issuance upon the exercise of outstanding options under the Company’s equity compensation plans as of May 31, 2020:
+(1)Amounts include performance stock options granted, assuming achievement of performance goals at target. Actual amount of shares to be earned may differ from the target amount.
+(2)Includes shares available for future issuance through grants of restricted stock units and restricted stock awards under our 2002 Plan. Refer to Note F of the Notes to Consolidated Financial Statements, contained in Item 8 of this Form 10-K, for more information on the Company’s stock incentive plans.
+Item 13.
+section_13: Item 13. Certain Relationships and Related Transactions, and Director Independence
+The information required by this item is set forth in the Company’s Definitive Proxy Statement for its 2020 Annual Meeting of Stockholders, anticipated to be held on or about October 15, 2020, under the sub-headings “Board Meetings and Committees” and “Policy on Transactions with Related Persons” within the section “CORPORATE GOVERNANCE,” and is incorporated herein by reference.
+Item 14.
+section_14: Item 14. Principal Accounting Fees and Services
+The information required by this item is set forth in the Company’s Definitive Proxy Statement for its 2020 Annual Meeting of Stockholders, anticipated to be held on or about October 15, 2020, under the section “PROPOSAL 4: RATIFICATION OF THE SELECTION OF PRICEWATERHOUSECOOPERS LLP TO SERVE AS THE INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM,” and is incorporated herein by reference.
+PART IV
+Item 15.
+section_15: Item 15. Exhibits and Financial Statement Schedules
+#
+(10.11)
+Paychex, Inc. 2002 Stock Incentive Plan (as amended and restated effective October 13, 2010) Form of Non-Qualified Stock Option Award Agreement (Officer) Long Term Incentive Program (“LTIP”), incorporated herein by reference from Exhibit 10.23 to the Company’s Form 10-K filed with the Commission on July 15, 2011.
+#
+(10.12)
+Paychex, Inc. 2002 Stock Incentive Plan (as amended and restated effective October 14, 2015) Form of Non-Qualified Stock Option and Restricted Stock Award Agreement LTIP, incorporated herein by reference from Exhibit 10.14 to the Company’s Form 10-K filed with the Commission on July 22, 2016.
+#
+(10.13)
+Paychex, Inc. Change In Control Plan, incorporated herein by reference from Exhibit 10.24 to the Company’s Form 10-K filed with the Commission on July 15, 2011.
+#
+(10.14)
+Paychex, Inc. Form of Performance Award Incentive Program, incorporated herein by reference from Exhibit 10.25 to the Company’s Form 10-K filed with the Commission on July 15, 2011.
+(10.15)
+Form of Indemnity Agreement for Directors and Officers, incorporated herein by reference from Exhibit 10.1 to the Company’s Form 10-Q filed with the Commission on March 28, 2012.
+#
+(10.16)
+Paychex, Inc. Board Deferred Compensation Plan, incorporated herein by reference from Exhibit 10.29 to the Company’s Form 10-K filed with the Commission on July 20, 2009.
+#
+(10.17)
+Paychex, Inc. Employee Deferred Compensation Plan, incorporated herein by reference from Exhibit 10.30 to the Company’s Form 10-K filed with the Commission on July 20, 2009.
+#
+(10.18)
+Paychex, Inc. 2002 Stock Incentive Plan (as amended and restated October 14, 2015) Form of Non-Qualified Stock Option Award Agreement, incorporated herein by reference from Exhibit 10.18 to the Company’s Form 10-K filed with the Commission on July 21, 2017.
+#
+(10.19)
+Paychex Inc. 2002 Stock Incentive Plan (as amended and restated October 14, 2015) Form of Officer Performance Incentive Award Agreement (Long-Term), incorporated herein by reference from Exhibit 10.19 to the Company’s Form 10-K filed with the Commission on July 21, 2017.
+#
+(10.20)
+Paychex, Inc. 2002 Stock Incentive Plan (as amended and restated effective October 14, 2015) Performance-Based Restricted Stock Award Agreement, incorporated herein by reference from Exhibit 10.1 to the Company’s Form 8-K filed with the Commission on September 8, 2017.
+#
+(10.21)
+Paychex, Inc. 2002 Stock Incentive Plan (as amended and restated effective October 14, 2015) Amendment to Award Agreements, incorporated herein by reference from Exhibit 10.2 to the Company’s Form 8-K filed with the Commission on September 8, 2017.
+(10.22)
+Note Purchase and Guarantee Agreement, dated as of January 9, 2019, by and among the Company, the Parent, and the respective purchasers thereto, incorporated herein by reference from Exhibit 10.1 to the Company’s Form 8-K filed with the Commission on January 11, 2019.
+#
+(10.23)
+Paychex, Inc. 2002 Stock Incentive Plan (as amended and restated effective October 14, 2015) Amended Form of Restricted Stock Unit Award Agreement, incorporated herein by reference from Exhibit 10.1 to the Company’s Form 10-Q filed with the Commission on October 4, 2019.
+#
+(10.24)
+Paychex, Inc. 2002 Stock Incentive Plan (as amended and restated effective October 14, 2015) Amended Form of Restricted Stock Unit Award Agreement (Officer), incorporated herein by reference from Exhibit 10.2 to the Company’s Form 10-Q filed with the Commission on October 4, 2019.
+#
+(10.25)
+Paychex, Inc. 2002 Stock Incentive Plan (as amended and restated effective October 14, 2015) Amended Form of 2019-2021 Performance Incentive Award Agreement, incorporated herein by reference from Exhibit 10.3 to the Company’s Form 10-Q filed with the Commission on October 4, 2019.
+#
+(10.26)
+Paychex, Inc. 2002 Stock Incentive Plan (as amended and restated effective October 14, 2015) Amended Form of Non-Qualified Stock Option Award Agreement, incorporated herein by reference from Exhibit 10.4 to the Company’s Form 10-Q filed with the Commission on October 4, 2019.
+#
+(10.27)
+Paychex, Inc. 2002 Stock Incentive Plan (as amended and restated effective October 14, 2015) Master Restricted Stock Unit Award Agreement, incorporated herein by reference from Exhibit 10.5 to the Company’s Form 10-Q filed with the Commission on October 4, 2019.
+(10.28)
+Five-Year Credit Agreement, dated as of July 31, 2019, by and among the Company, the Parent, and the lender parties hereto, incorporated herein by reference from Exhibit 10.1 to the Company’s Form 8-K filed with the Commission on August 1, 2019.
+(10.29)

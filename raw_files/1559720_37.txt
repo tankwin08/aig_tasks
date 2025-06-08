@@ -1,0 +1,69 @@
+authorities; and (v) evaluating third party income tax documentation obtained by the Company. Professionals with specialized skill and knowledge were used to assist in the evaluation of the completeness and measurement of the Company’s uncertain tax positions, including evaluating the reasonableness of management’s assessment of whether tax positions are more-likely-than-not of being sustained and the amount of potential benefit to be realized, the application of relevant tax laws, and estimated interest and penalties.
+/s/ PricewaterhouseCoopers LLP
+San Francisco, California
+February 26, 2021
+We have served as the Company's auditor since 2011.
+Airbnb, Inc.
+Consolidated Balance Sheets
+(in thousands, except per share amounts)
+The accompanying notes are an integral part of these consolidated financial statements.
+Airbnb, Inc.
+Consolidated Statements of Operations
+(in thousands, except per share amounts)
+The accompanying notes are an integral part of these consolidated financial statements.
+Airbnb,Inc.
+Consolidated Statements of Comprehensive Loss
+(in thousands)
+The accompanying notes are an integral part of these consolidated financial statements.
+Airbnb, Inc.
+Consolidated Statements of Redeemable Convertible Preferred Stock and Stockholders’ Equity (Deficit)
+(in thousands)
+The accompanying notes are an integral part of these consolidated financial statements.
+Airbnb, Inc.
+Consolidated Statements of Redeemable Convertible Preferred Stock and Stockholders’ Equity (Deficit)
+(in thousands)
+The accompanying notes are an integral part of these consolidated financial statements.
+Airbnb, Inc.
+Consolidated Statements of Cash Flows
+(in thousands)
+The accompanying notes are an integral part of these consolidated financial statements.
+Airbnb, Inc.
+Consolidated Statements of Cash Flows
+(in thousands)
+The accompanying notes are an integral part of these consolidated financial statements.
+Airbnb, Inc.
+Notes to Consolidated Financial Statements
+Note 1. Description of Business
+Airbnb, Inc. (the “Company” or “Airbnb”) was incorporated in Delaware in June 2008 and is headquartered in San Francisco, California. The Company operates a global platform for unique stays and experiences. The Company’s marketplace model connects hosts and guests (collectively referred to as “customers”) online or through mobile devices to book spaces and experiences around the world.
+Note 2. Summary of Significant Accounting Policies
+Basis of Presentation
+The accompanying consolidated financial statements have been prepared in conformity with generally accepted accounting principles in the United States of America (“U.S. GAAP”) and include accounts of the Company and its wholly-owned subsidiaries. All intercompany accounts and transactions have been eliminated in consolidation.
+Stock Split
+On October 26, 2020, the Company effected a two-for-one stock split of its common stock and redeemable convertible preferred stock. All share and per share information has been retroactively adjusted to reflect the stock split for all periods presented.
+Initial Public Offering
+The Company’s registration statement on Form S-1 (the “IPO Registration Statement”) related to its initial public offering (“IPO”) was declared effective on December 9, 2020 and the Company’s Class A common stock began trading on the Nasdaq Global Select Market on December 10, 2020. On December 14, 2020, the Company completed its IPO, in which the Company sold 50.0 million shares of Class A common stock at a price to the public of $68.00 per share. On the same day, the Company sold an additional 5.0 million shares of Class A common stock at a price to the public of $68.00 per share pursuant to the exercise of the underwriters’ option to purchase additional shares. The Company received aggregate net proceeds of $3.7 billion after deducting underwriting discounts and commissions of $79.3 million and offering expenses of $9.8 million.
+Upon completing the IPO, all outstanding shares of the Company’s redeemable convertible preferred stock, of which 239,623,894 shares were outstanding prior to the IPO, converted into an aggregate of 240,910,588 shares of our Class B common stock, including 1,286,694 shares of common stock issuable pursuant to the anti-dilution adjustment provisions relating to the Company’s Series C redeemable convertible preferred stock.
+Upon the Company’s IPO, the Company recognized $2.8 billion of stock-based compensation expense for awards with a liquidity-event performance-based vesting condition satisfied at IPO. Shares were then issued related to the vesting of the restricted stock units ("RSUs") with such performance-based vesting conditions. The Company withheld 24.2 million shares of common stock and based on the IPO price of $68.00 per share to satisfy tax withholding and remittance of approximately $1.6 billion.
+Under the Company’s restated certificate of incorporation, which became effective immediately prior to the completion of the IPO, the Company is authorized to issue 4,736,000,000 shares of common stock, including 2,000,000,000 shares of Class A common stock, 710,000,000 shares of Class B common stock, 2,000,000,000 shares of Class C common stock and 26,000,000 shares of Class H common stock. As a result, following the completion of the IPO, the Company has four classes of authorized common stock: Class A, Class B, Class C, and Class H common stock, of which Class A and Class B had shares outstanding as of December 31, 2020. In November 2020, 9,200,000 shares of Class H common stock were issued to the Company’s wholly-owned Host Endowment Fund subsidiary and held as treasury stock.
+COVID-19 Pandemic
+In December 2019, a novel strain of coronavirus disease (“COVID-19”) was reported and in March 2020, the World Health Organization characterized COVID-19 as a global pandemic. The COVID-19 pandemic has forced international, federal, state, and local governments to enforce prohibitions of non-essential activities.
+The Company first saw the impact of COVID-19 in China in the last week of January 2020, which when contained to China, had a minor impact on the entire business. The outbreak spread throughout Asia, and then through Europe, North America, and the rest of the world by the end of the first quarter of 2020. Since then, the Company has experienced a significant decline in revenue resulting from a decrease in bookings and an increase in cancellations. The extent and duration of the adverse impact of COVID-19 on the Company over the longer term remain uncertain and dependent on future developments that cannot be accurately predicted at this time, such as the severity and transmission rate of COVID-19, the extent and effectiveness of containment actions taken, including mobility restrictions, the timing, availability, and effectiveness of vaccines, and the impact of these and other factors on travel behavior in general and on the Company’s business.
+As a result, the Company took a number of actions in 2020 in response to the significant decrease in bookings and the adverse impacts on its revenue, operating results, and financial condition as described in Note 11, Debt, Note 13, Commitments and Contingencies, and Note 19, Restructuring.
+Airbnb, Inc.
+Notes to Consolidated Financial Statements
+As the impact of COVID-19 continues to evolve, estimates and assumptions about future events and their effects cannot be determined with certainty and therefore require increased judgment. These estimates and assumptions may change in future periods and will be recognized in the consolidated financial statements as new events occur and additional information becomes known. To the extent the Company’s actual results differ materially from those estimates and assumptions, the Company’s future financial statements could be affected.
+Principles of Consolidation
+The accompanying consolidated financial statements include the accounts of the Company and its wholly-owned subsidiaries and variable interest entities (“VIE”) in which the Company is the primary beneficiary in accordance with consolidation accounting guidance. All intercompany transactions have been eliminated in consolidation.
+The Company determines, at the inception of each arrangement, whether an entity in which it has made an investment or in which it has other variable interest in is considered a VIE. The Company consolidates a VIE when it is deemed to be the primary beneficiary. The primary beneficiary of a VIE is the party that meets both of the following criteria: (i) has the power to direct the activities that most significantly affect the economic performance of the VIE; and (ii) has the obligation to absorb losses or the right to receive benefits that in either case could potentially be significant to the VIE. Periodically, the Company determines whether any changes in its interest or relationship with the entity impact the determination of whether the entity is still a VIE and, if so, whether the Company is the primary beneficiary. If the Company is not deemed to be the primary beneficiary in a VIE, the Company accounts for the investment or other variable interest in a VIE in accordance with applicable U.S. GAAP. As of December 31, 2019 and 2020, the Company’s consolidated VIEs were not material to the consolidated financial statements.
+Use of Estimates
+The preparation of the Company’s consolidated financial statements in conformity with U.S. GAAP requires management to make certain estimates and assumptions that affect the amounts reported in the financial statements and accompanying notes. The Company regularly evaluates its estimates, including those related to bad debt reserves, fair value of investments, useful lives of long-lived assets and intangible assets, valuation of acquired goodwill and intangible assets from acquisitions, contingent liabilities, insurance reserves, revenue recognition, valuation of common stock, stock-based compensation, and income and non-income taxes, among others. Actual results could differ materially from these estimates.
+Segment Information
+Operating segments are defined as components of an entity for which discrete financial information is available and is regularly reviewed by the Chief Operating Decision Maker (“CODM”) in making decisions regarding resource allocation and performance assessment. The Company’s CODM is its Chief Executive Officer. The Company has determined it has one operating and reportable segment as the CODM reviews financial information presented on a consolidated basis for purposes of allocating resources and evaluating financial performance.
+Cash, Cash Equivalents, and Restricted Cash
+Cash and cash equivalents are held in checking and interest-bearing accounts and consist of cash and highly-liquid securities with an original maturity of 90 days or less. The following table reconciles cash, cash equivalents, and restricted cash reported on the Company’s consolidated balance sheets to the total amount presented in the consolidated statements of cash flows (in thousands):
+Marketable Securities
+The Company considers all highly-liquid investments with original maturities of greater than 90 days to be marketable securities. The Company determines the appropriate classification of its investments in marketable securities at the time of purchase. As the Company views these securities as available to support current operations, it accounts for these debt securities as available-for-sale and classifies them as short-term assets on its consolidated balance sheets. The Company determines realized gains or losses on the sale of equity and debt securities on a specific identification method.
+Unrealized gains and non-credit related losses on available-for-sale debt securities are reported as a component of accumulated other comprehensive income (loss) in stockholders’ equity (deficit). Realized gains and losses and impairments are reported within other income (expense), net in the consolidated statements of operations. The assessment for impairment takes into account the severity and duration of the decline in value, adverse changes in the market or industry of the investee, the Company’s intent to sell the security and whether it is more likely than not that it will be required to sell the security before recovery of the amortized cost basis.
+The Company’s marketable equity securities with readily determinable fair values are measured at fair value on a recurring basis with changes in fair value recognized within other income (expense), net in the consolidated statements of operations.
+Airbnb, Inc.
+Notes to Consolidated Financial Statements

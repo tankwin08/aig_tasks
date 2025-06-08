@@ -1,0 +1,59 @@
+Tangible long-lived assets as of December 31, 2019 and 2020 consisted of property and equipment and operating lease ROU assets. Long-lived assets attributed to the United States, Ireland, and other international geographies are based upon the country in which the asset is located.
+Note 19. Restructuring
+During the year ended December 31, 2020, the Company experienced significant economic challenges associated with a severe decline in bookings, resulting primarily from COVID-19 and overall global travel restrictions. To address these impacts, in May 2020, the Company’s management approved a restructuring plan to realign the Company’s business and strategic priorities based on the current market and economic conditions as a result of COVID-19. This worldwide restructuring plan included a 25% reduction in the number of full-time employees, or approximately 1,800 employees, as well as a reduction in the contingent workforce and amendments to certain commercial agreements. For the year ended December 31, 2020, the Company incurred $151.4 million in restructuring charges, of which $103.8 million was related to severance and other employee costs, $35.8 million was related to lease impairments, and $11.8 million was primarily related to contract amendments and terminations. These expenses are included in restructuring charges in the Company’s consolidated statements of operations, and unpaid amounts are included in accrued expenses and other current liabilities on its consolidated balance sheets. While some of these activities are ongoing and are expected to be completed during 2021, the majority of these actions were completed by December 31, 2020. As December 31, 2020, the remaining liability for restructuring-related costs was not material.
+Airbnb, Inc.
+Schedule II-Valuation and Qualifying Accounts
+The tables below detail the activity of the customer receivable reserve, host protection program liabilities, and the valuation allowance on deferred tax assets for the years ended December 31, 2018, 2019, and 2020 (in thousands):
+Item 9.
+section_9: Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure
+None.
+Item 9A.
+section_9A: Item 9A. Controls and Procedures
+Evaluation of Disclosure Controls and Procedures
+Based on an evaluation under the supervision and with the participation of the Company’s management, the Company’s principal executive officer and principal financial officer have concluded that the Company’s disclosure controls and procedures as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act were effective as of the end of the period covered by this Annual Report on Form 10-K to provide reasonable assurance that information required to be disclosed by the Company in reports that it files or submits under the Exchange Act is (i) recorded, processed, summarized and reported within the time periods specified in the SEC rules and forms and (ii) accumulated and communicated to the Company’s management, including its principal executive officer and principal financial officer, as appropriate to allow timely decisions regarding required disclosure.
+Changes in Internal Control Over Financial Reporting
+There were no changes in our internal control over financial reporting during the quarter ended December 31, 2020 that materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+Management’s Report on Internal Control over Financial Reporting
+The Annual Report on Form 10-K does not include a report of management’s assessment regarding internal controls over financial reporting or an attestation report of our independent public accounting firm due to a transition period established by the rules of the SEC for newly public companies.
+Limitations on Controls
+Our disclosure controls and procedures and internal control over financial reporting are designed to provide reasonable assurance of achieving their objectives as specified above. Management does not expect, however, that our disclosure controls and procedures or our internal control over financial reporting will prevent or detect all error and fraud. Any control system, no matter how well designed and operated, is based upon certain assumptions and can provide only reasonable, not absolute, assurance that its objectives will be met. Further, no evaluation of controls can provide absolute assurance that misstatements due to error or fraud will not occur or that all control issues and instances of fraud, if any, within the Company have been detected.
+Item 9B.
+section_9B: Item 9B. Other Information
+None.
+PART III
+Item 10.
+section_10: Item 10. Directors, Executive Officers and Corporate Governance
+The information required by this Item is incorporated by reference to the Company’s 2021 Proxy Statement (the “2021 Proxy Statement”) to be filed with the SEC within 120 days after December 31, 2020 in connection with the solicitation of proxies for the Company’s 2021 annual meeting of stockholders.
+We have adopted a Code of Ethics that applies to our officers, directors and employees, which is available on our website (investors.airbnb.com) under “Governance.” The Code of Ethics is intended to qualify as a “code of ethics” within the meaning of Section 406 of the Sarbanes-Oxley Act of 2002, as amended, and Item 406 of Regulation S-K. In addition, we intend to promptly disclose on our website (investors.airbnb.com) (1) the nature of any amendment to our Code of Ethics that applies to our directors or our principal executive officer, principal financial officer, principal accounting officer or controller or persons performing similar functions and (2) the nature of any waiver, including an implicit waiver, from a provision of our Code of Ethics that is granted to a director or one of these specified officers, the name of such person who is granted the waiver and the date of the waiver.
+Item 11.
+section_11: Item 11. Executive Compensation
+The information required by this Item is incorporated by reference to the 2021 Proxy Statement.
+Item 12.
+section_12: Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+The information required by this Item is incorporated by reference to the 2021 Proxy Statement.
+Item 13.
+section_13: Item 13. Certain Relationships and Related Transactions, and Director Independence
+The information required by this Item is incorporated by reference to the 2021 Proxy Statement.
+Item 14.
+section_14: Item 14. Principal Accountant Fees and Services
+The information required by this Item is incorporated by reference to the 2021 Proxy Statement.
+PART IV
+Item 15.
+section_15: Item 15. Exhibits, Financial Statement Schedules
+(a) Documents filed as part of this Annual Report on Form 10-K:
+(1) Consolidated Financial Statements
+Our consolidated financial statements are listed in the “Index to Consolidated Financial Statements and Schedule” under Part II, Item 8 of this Annual Report on Form 10-K.
+(2) Financial Statement Schedules
+All financial statement schedules have been omitted because they are not applicable, not material or the required information is shown in Part II, Item 8 of this Annual Report on Form 10-K.
+(3) Exhibits
+The documents listed in the Exhibit Index of this Annual Report on Form 10-K are incorporated by reference or are filed with this Annual Report on Form 10-K, in each case as indicated herein (numbered in accordance with Item 601 of Regulation S-K).
+Item 16. Form 10-K Summary
+None.
+Exhibit Index
+# Indicates management contract or compensatory plan.
+* The certifications attached as Exhibit 32.1 that accompany this Annual Report on Form 10-K are deemed furnished and not filed with the Securities and Exchange Commission and are not to be incorporated by reference into any filing of Airbnb, Inc. under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, as amended, whether made before or after the date of this Annual Report on Form 10-K, irrespective of any general incorporation language contained in such filing.
+Signatures
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, as amended, the Registrant has duly caused this Annual Report on Form 10-K to be signed on its behalf by the undersigned, thereunto duly authorized.
+Power of Attorney
+KNOW ALL PERSONS BY THESE PRESENTS, that each person whose signature appears below constitutes and appoints Brian Chesky, David E. Stephenson, and Rich Baer, and each one of them, as his or her true and lawful attorneys-in-fact and agents, with full power of substitution and resubstitution, for him or her and in their name, place and stead, in any and all capacities, to sign any amendments to this Annual Report on Form 10-K and to file the same, with exhibits thereto and other documents in connection therewith, with the Securities and Exchange Commission, hereby ratifying and confirming all that each of said attorneys-in-fact, or substitute or substitutes, may do or cause to be done by virtue hereof.
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed by the following persons on behalf of the registrant and in the capacities and on the dates indicated.

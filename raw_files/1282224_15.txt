@@ -1,0 +1,126 @@
+Disclosure controls and procedures are controls and other procedures that are designed to ensure that information required to be disclosed in our reports filed or submitted under the Exchange Act is recorded, processed, summarized and reported, within the time periods specified in the SEC’s rules and forms. Disclosure controls and procedures include, without limitation, controls and procedures designed to ensure that information required to be disclosed in our reports filed under the Exchange Act is accumulated and communicated to management, including our Chief Executive Officer, to allow timely decisions regarding required disclosure.
+We carried out an evaluation of the effectiveness of the design and operation of our disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) as of December 31, 2020. Based upon that evaluation, our Chief Executive Officer and Chief Financial Officer concluded that our disclosure controls and procedures were not effective due to material weaknesses identified in our internal control over financial reporting described below.
+We are responsible for establishing and maintaining adequate internal control over financial reporting as such term is defined by Exchange Act Rule 13a-15(f). Our internal controls are designed to provide reasonable assurance as to the reliability of our financial statements for external purposes in accordance with accounting principles generally accepted in the United States.
+Internal control over financial reporting has inherent limitations and may not prevent or detect misstatements. Therefore, even those systems determined to be effective can provide only reasonable, not absolute, assurance with respect to financial statement preparation and presentation. Further, because of changes in conditions, the effectiveness of internal control over financial reporting may vary over time.
+A material weakness is a deficiency, or a combination of deficiencies, in internal control over financial reporting such that there is a reasonable possibility that a material misstatement of our annual or interim financial statements will not be prevented or detected on a timely basis.
+Under the supervision and with the participation of our Chief Executive Officer and Chief Financial Officer, we have evaluated the effectiveness of our internal control over financial reporting as of December 31, 2020, as required by Exchange Act Rule 13a-15(c). The framework on which such evaluation was based is contained in the report entitled “Internal Control - Integrated Framework” issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 Framework) (the “COSO Report”). We concluded that based on our evaluation, our internal control over financial reporting was not effective as of December 31, 2020, due to the following material weaknesses:
+·
+We determined the following design deficiencies related to the entity level control environment, including risk assessment, information and communication and monitoring controls.
+-
+There is no documented fraud risk assessment or risk management oversight function.
+-
+There is no documented process to monitor and remediate deficiencies in internal controls.
+·
+We determined that review and approval of certain aspects of the accounting process including the documented review of accounting reconciliations, complex transactions, revenue recognition and journal entries are inadequate and thus considered to be a material weakness in internal control. Specifically:
+-
+There are no documented period end procedures for analyzing complex transactions, including business combinations and revenue recognition and documented approval of accounting reconciliations and journal entries.
+·
+We observed the following inadequate segregation of duties within the accounting process that we determined were a material weakness in our internal control:
+-
+One individual has the ability to add vendors to the master vendor file. This individual also has access to the Company checkbook that is maintained in a secure location.
+Remediation of Material Weaknesses in Internal Control over Financial Reporting
+In order to remediate the material weaknesses in internal control over financial reporting, we will continue to implement improvements during fiscal year 2021, under the direction of our board of directors, as follows:
+·
+Our board of directors intends to review the COSO “Internal Control over Financial Reporting - Guidance for Smaller Public Companies” that was published in 2006 including the control environment, risk assessment, control activities, information and communication and monitoring. Based on this framework, the board of directors plans to implement controls as needed assuming a cost benefit relationship. In addition, our board of directors plans to evaluate the key concepts of the updated 2013 COSO “Internal Control - Integrated Framework” as it provides a means to apply internal control to any type of entity.
+·
+We have entered into an agreement with a third-party consultant that will assist us in analyzing complex transactions and the appropriate accounting treatment starting in the first quarter of 2021.
+·
+We are enhancing our documentation of month end closing procedures.
+·
+Enhance our controls over segregation of duties.
+Limitations on Effectiveness of Controls and Procedures
+A control system, no matter how well designed and operated, can provide only reasonable, not absolute, assurance that the control system’s objectives will be met. We do not expect that our disclosure controls will prevent or detect all errors and all fraud. Further, the design of a control system must reflect the fact that there are resource constraints, and the benefits of controls must be considered relative to their costs. Because of the inherent limitations in all control systems, no evaluation of controls can provide absolute assurance that all control issues and instances of fraud, if any, within the Company have been detected. These inherent limitations include the realities that judgments in decision-making can be faulty, and that breakdowns can occur because of simple error or mistake. Controls can also be circumvented by the individual acts of some persons, by collusion of two or more people, or by management override of the controls. The design of any system of controls is based in part upon certain assumptions about the likelihood of future events, and there can be no assurance that any design will succeed in achieving its stated goals under all potential future conditions. Over time, controls may become inadequate because of changes in conditions or deterioration in the degree of compliance with associated policies or procedures. Because of the inherent limitations in a cost-effective control system, misstatements due to error or fraud may occur and not be detected.
+Changes in Internal Controls
+During the year ended December 31, 2020, we implemented the following procedures to remediate some of the material weaknesses in internal controls:
+·
+We have hired an accounting team and consolidated the accounting function of our subsidiaries in one office. We intend to segregate certain duties and document approvals of accounting reconciliations and journal entries and document procedures for analyzing complex transactions, business combinations and revenue recognition.
+·
+We standardized the accounting software and chart of accounts across all of our subsidiaries, with the exception of Be Social, which we are in the process of doing.
+We are neither an accelerated filer nor a large accelerated filer, as defined in Rule 12b-2 under the Exchange Act, and are not otherwise including in this 2020 Form 10-K an attestation report of our independent registered public accounting firm regarding internal control over financial reporting. Management’s report was not required to be attested to by our registered public accounting firm pursuant to Item 308(b) of Regulation S-K.
+ITEM 9B.
+section_9B: ITEM 9B. OTHER INFORMATION
+Item 3.02 Unregistered Sales of Equity Securities
+On October 26 and December 1, 2020, we entered into two convertible promissory notes in the principal amounts of $500,000 and $250,000, respectively with two accredited investors. The convertible promissory notes bear interest at a rate of 10% per annum and mature two years from the date of issuance. The noteholders may convert the principal balance and any accrued interest at any time before the maturity date of the convertible promissory note using the 90-day trailing trading average price of the Company’s common stock.
+The securities referred to above, including the shares of Common Stock issuable upon conversion of the promissory notes, were offered, issued and sold by the Company to the investors in reliance upon the exemption from registration provided by Section 4(a)(2) of the Securities Act and Rule 506 of Regulation D promulgated thereunder. The Investor represented to the Company that it was an “accredited investor”, as defined in Rule 501(a) under the Securities Act, and that it was acquiring such securities for investment purposes.
+PART III
+ITEM 10.
+section_10: ITEM 10. DIRECTORS, EXECUTIVE OFFICERS, AND CORPORATE GOVERNANCE
+The information required by this item is incorporated by reference to our Proxy Statement for our 2021 Annual Meeting of Shareholders to be filed with the SEC within 120 days after the end of the fiscal year ended December 31, 2020 and is incorporated herein by reference.
+ITEM 11.
+section_11: ITEM 11. EXECUTIVE COMPENSATION
+The information required by this item is incorporated by reference to our Proxy Statement for our 2021 Annual Meeting of Shareholders to be filed with the SEC within 120 days after the end of the fiscal year ended December 31, 2020 and is incorporated herein by reference.
+ITEM 12.
+section_12: ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS
+The information required by this item is incorporated by reference to our Proxy Statement for our 2021 Annual Meeting of Shareholders to be filed with the SEC within 120 days after the end of the fiscal year ended December 31, 2020 and is incorporated herein by reference.
+ITEM 13.
+section_13: ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE
+The information required by this item is incorporated by reference to our Proxy Statement for our 2021 Annual Meeting of Shareholders to be filed with the SEC within 120 days after the end of the fiscal year ended December 31, 2020 and is incorporated herein by reference.
+ITEM 14.
+section_14: ITEM 14. PRINCIPAL ACCOUNTING FEES AND SERVICES
+The information required by this item is incorporated by reference to our Proxy Statement for our 2021 Annual Meeting of Shareholders to be filed with the SEC within 120 days after the end of the fiscal year ended December 31, 2020 and is incorporated herein by reference.
+PART IV
+ITEM 15.
+section_15: ITEM 15. EXHIBITS, FINANCIAL STATEMENT SCHEDULES
+(a) Documents filed as part of this report:
+(1) Financial Statements
+See Item 8 for Financial Statements included with this 2020 Form 10-K.
+(2) Financial Statement Schedules
+None.
+(3) Exhibits
+The exhibits identified in the Exhibit Index below are included herein or incorporated by reference.
+Exhibit Index
+ Management contract or compensatory plan or arrangement.
+* Schedules (and similar attachments) have been omitted pursuant to Item 601(b)(2) of Regulation S-K. The Company agrees to furnish supplementally a copy of any omitted schedule to the Securities and Exchange Commission upon request.
+ITEM 16 FORM 10-K SUMMARY
+None.
+SIGNATURES
+In accordance with Section 13 or 15(d) of the Exchange Act of 1934, the Registrant caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the Registrant and in the capacities and on the dates indicated.
+Signature
+Title
+Date
+/s/ William O’Dowd, IV
+Chairman, President and Chief Executive Officer
+(Principal Executive Officer)
+April 15, 2021
+William O’Dowd, IV
+/s/ Mirta A Negrini
+Chief Financial and Operating Officer and Director
+(Principal Financial Officer and Principal Accounting Officer)
+April 15, 2021
+Mirta A Negrini
+/s/ Michael Espensen
+Director
+April 15, 2021
+Michael Espensen
+/s/ Nelson Famadas
+Director
+April 15, 2021
+Nelson Famadas
+/s/ Leslee Dart
+Director
+April 15, 2021
+Leslee Dart
+/s/ Anthony Leo
+Director
+April 15, 2021
+Anthony Leo
+/s/ Nicholas Stanham
+Director
+April 15, 2021
+Nicholas Stanham
+/s/ Claudia Grillo
+Director
+April 15, 2021
+Claudia Grillo
+/s/ Charlie Dougiello
+Director
+April 15, 2021
+Charlie Dougiello
+Dolphin Entertainment, Inc.
+Audited Consolidated Financial Statements
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+Shareholders and Board of Directors
+Dolphin Entertainment, Inc.
+Coral Gables, Florida
+Opinion on the Consolidated Financial Statements

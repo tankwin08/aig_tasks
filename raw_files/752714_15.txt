@@ -1,0 +1,71 @@
+For assets discussed above, we inquired of management with respect to the assets and factors driving assessment of realizability and corroborated explanations received.
+/s/ GRANT THORNTON LLP
+We have served as the Company’s auditor since 2002.
+San Jose, California
+February 23, 2021
+McGrath RentCorp
+Consolidated Balance Sheets
+The accompanying notes are an integral part of these consolidated financial statements.
+McGrath RentCorp
+Consolidated Statements of Income
+The accompanying notes are an integral part of these consolidated financial statements.
+McGrath RentCorp
+Consolidated Statements of COMPREHENSIVE Income
+The accompanying notes are an integral part of these consolidated financial statements
+McGrath RentCorp
+Consolidated Statements of Shareholders' Equity
+The accompanying notes are an integral part of these consolidated financial statements.
+McGrath RentCorp
+Consolidated Statements of Cash Flows
+The accompanying notes are an integral part of these consolidated financial statements.
+MCGRATH RENTCORP
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+NOTE 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+Organization
+McGrath RentCorp and its wholly-owned subsidiaries (the “Company”) is a California corporation organized in 1979. The Company is a diversified business to business rental company with four rental divisions; relocatable modular buildings, portable storage containers, electronic test equipment and liquid and solid containment tanks and boxes. Although the Company’s primary emphasis is on equipment rentals, sales of equipment occur in the normal course of business. The Company is comprised of four reportable business segments: modular building and portable storage segment (“Mobile Modular”), electronic test equipment segment (“TRS-RenTelco”), containment solutions for the storage of hazardous and non-hazardous liquids and solids segment (“Adler Tanks”) and classroom manufacturing division selling modular classrooms in California (“Enviroplex”).
+Principles of Consolidation
+The consolidated financial statements include the accounts of McGrath RentCorp and its wholly-owned subsidiaries. All intercompany accounts and transactions have been eliminated in consolidation.
+Revenue Recognition
+Lease revenues - Rental revenues from operating leases are recognized on a straight-line basis over the term of the lease for all operating segments. Rental billings for periods extending beyond period end are recorded as deferred income and are recognized in the period earned. Rental related services revenues are primarily associated with relocatable modular building and liquid and solid containment tanks and boxes leases. For modular building leases, rental related services revenues for modifications, delivery, installation, dismantle and return delivery are lease related because the payments are considered minimum lease payments that are an integral part of the negotiated lease agreement with the customer. These revenues are recognized on a straight-line basis over the term of the lease. Certain leases are accounted for as sales-type leases. For these leases, sales revenue and the related accounts receivable are recognized upon delivery and installation of the equipment and the unearned interest is recognized over the lease term on a basis which results in a constant rate of return on the unrecovered lease investment. Other revenues include interest income on sales-type leases and rental income on facility leases.
+Non-lease revenues - Sales revenue is recognized upon delivery and installation of the equipment to customers. Certain leases are accounted for as sales-type leases. For these leases, sales revenue and the related accounts receivable are recognized upon delivery and installation of the equipment and the unearned interest is recognized over the lease term on a basis which results in a constant rate of return on the unrecovered lease investment.
+Other revenue is recognized when earned and primarily includes interest income on sales-type leases, rental income on facility leases and certain logistics services.
+Sales taxes charged to customers are reported on a net basis and are excluded from revenues and expenses.
+Depreciation of Rental Equipment
+Rental equipment is depreciated on a straight-line basis for financial reporting purposes and on an accelerated basis for income tax purposes. The costs of major refurbishment of relocatable modular buildings, portable storage containers and tanks and boxes are capitalized to the extent the refurbishment significantly adds value to, or extends the life of the equipment. Maintenance and repairs are expensed as incurred.
+The estimated useful lives and residual values of the Company’s rental equipment used for financial reporting purposes are as follows:
+Relocatable modular buildings
+18 years, 50% residual value
+Relocatable modular accessories
+3 to 18 years, no residual value
+Blast resistant modules
+20 years, no residual value
+Portable storage containers
+25 years, 62.5% residual value
+Electronic test equipment and accessories
+1 to 8 years, no residual value
+Liquid and solid containment tanks and boxes and accessories
+3 to 20 years, no residual value
+Costs of Rental Related Services
+Costs of rental related services are primarily associated with relocatable modular building leases and liquid and solid containment tank and boxes. Modular building leases primarily consist of costs for services to be provided under the negotiated lease agreement for delivery, installation, modifications, skirting, additional site-related work, and dismantle and return delivery. Costs related to these services are recognized on a straight-line basis over the term of the lease. Costs of rental related services associated with liquid and solid containment solutions consists of costs of delivery, removal and cleaning of the tanks and boxes. These costs are recognized in the period the service is performed.
+Impairment of Long-Lived Assets
+The Company evaluates the carrying value of rental equipment and identifiable definite lived intangible assets for impairment whenever events or circumstances have occurred that would indicate the carrying amount may not be fully recoverable. A key element in determining the recoverability of long-lived assets is the Company’s outlook as to the future market conditions for its rental equipment. If the carrying amount is not fully recoverable, an impairment loss is recognized to reduce the carrying amount to fair value. The Company determines fair value based upon the condition of the rental equipment and the projected net cash flows from its rental and sale considering current market conditions. Goodwill and identifiable indefinite lived assets are evaluated for potential impairment annually or when circumstances indicate potential impairment may have occurred. Impairment losses, if any, are determined based upon the excess of carrying value over the estimated fair value of the asset. There were no impairments of long-lived assets during the years ended December 31, 2020 and 2019. The Company recorded an impairment of modular rental equipment of $0.1 million for the year ended December 31, 2018.
+Other Direct Costs of Rental Operations
+Other direct costs of rental operations include direct labor, supplies, repairs, insurance, property taxes, license fees, impairment of rental equipment and certain modular lease costs charged to customers in the negotiated rental rate, which are recognized on a straight-line basis over the term of the lease.
+Cost of Sales
+Cost of sales in the Consolidated Statements of Income includes the carrying value of the equipment sold and all direct costs associated with the sale.
+Warranty Reserves
+Sales of new relocatable modular buildings, portable storage containers, electronic test equipment and related accessories and liquid and solid containment tanks and boxes not manufactured by the Company are typically covered by warranties provided by the manufacturer of the products sold. The Company typically provides limited 90-day warranties for certain sales of used rental equipment and one-year warranties on equipment manufactured by Enviroplex. Although the Company’s policy is to provide reserves for warranties when required for specific circumstances, the Company has not found it necessary to establish such reserves to date as warranty costs have not been significant.
+Property, Plant and Equipment
+Property, plant and equipment are stated at cost, net of accumulated depreciation. Depreciation is recognized on a straight-line basis for financial reporting purposes, and on an accelerated basis for income tax purposes. Depreciation expense for property, plant and equipment is included in “Selling and administrative expenses” and “Rental related services” in the Consolidated Statements of Income. Maintenance and repairs are expensed as incurred.
+Property, plant and equipment consist of the following:
+Property, plant and equipment depreciation expense was $8.6 million, $8.2 million and $8.0 million for the years ended December 31, 2020, 2019 and 2018, respectively. Construction in progress at December 31, 2020 and 2019 consisted primarily of costs related to acquisition of land, land improvements and information technology upgrades.
+Capitalized Software Costs
+The Company capitalizes certain development costs incurred in connection with its internal use software. Costs incurred in the preliminary stages of development are expensed as incurred. Once an application has reached the development stage, direct internal and external costs are capitalized until the software is substantially complete and ready for its intended use. These costs generally include external direct costs of materials and services consumed in the project and internal costs, such as payroll and benefits of those employees directly associated with the development of the software. Maintenance, training and post implementation costs are expensed as incurred. The Company also capitalizes costs related to specific upgrades and enhancements when it is probable the expenditures will result in additional functionality. Capitalized software costs are included in property, plant and equipment. The Company capitalized $0.1 million and $3.0 million in internal use software during the years ended December 31, 2020 and 2019, respectively.
+Advertising Costs
+Advertising costs are expensed as incurred. Total advertising expenses were $3.9 million, $3.6 million and $3.2 million for the years ended December 31, 2020, 2019 and 2018.
+Income Taxes
+Income taxes are accounted for using an asset and liability approach. Deferred tax assets and liabilities are recorded for the effect of temporary differences between the tax basis of assets and liabilities and their reported amounts in the consolidated financial statements. Deferred tax assets and deferred tax liabilities are adjusted to the extent necessary to reflect tax rates expected to be in effect when temporary differences reverse. Adjustments may be required to deferred tax assets and deferred tax liabilities due to changes in tax laws and audit adjustments by tax authorities. A valuation allowance would be established if, based on the weight of available evidence, management believes that it is more likely than not that some portion or all of a recorded deferred tax asset would not be realized in future periods. To the extent adjustments are required in any given period, the adjustments would be included within the “Provision for income taxes” in the Consolidated Statements of Income.
+Goodwill and Intangible Assets
+Purchase prices of acquired businesses are allocated to the assets and liabilities acquired based on the estimated fair values on the respective acquisition dates. Based on these values, the excess purchase prices over the fair value of the net assets acquired are allocated to goodwill and other intangible assets. Intangible assets related to customer relationships are amortized over eleven years. At December 31, 2020 and 2019, goodwill and trade name intangible assets which have indefinite lives totaled $34.1 million.
+The Company assesses potential impairment of its goodwill and intangible assets when there is evidence that events or circumstances have occurred that would indicate the recovery of an asset’s carrying value is unlikely. The Company also assesses potential impairment of its goodwill and intangible assets with indefinite lives on an annual basis regardless of whether there is evidence of impairment. If indicators of impairment were to be present in intangible assets used in operations and future discounted cash flows
+were not expected to be sufficient to recover the assets’ carrying amount, an impairment loss would be charged to expense in the period identified. The amount of an impairment loss would be recognized as the excess of the asset’s carrying value over its fair value. Factors the Company considers important, which may cause impairment include, among others, significant changes in the manner of use of the acquired asset, negative industry or economic trends, and significant underperformance relative to historical or projected operating results.

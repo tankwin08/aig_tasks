@@ -1,0 +1,42 @@
+(1) Under Rule 13d-3, a beneficial owner of a security includes any person who, directly or indirectly, through any contract, arrangement, understanding, relationship, or otherwise has or shares: (i) voting power, which includes the power to vote, or to direct the voting of shares; and (ii) investment power, which includes the power to dispose or direct the disposition of shares. Certain shares may be deemed to be beneficially owned by more than one person (if, for example, persons share the power to vote or the power to dispose of the shares). In addition, shares are deemed to be beneficially owned by a person if the person has the right to acquire the shares (for example, upon exercise of an option) within 60 days of the date as of which the information is provided. In computing the percentage ownership of any person, the amount of shares outstanding is deemed to include the amount of shares beneficially owned by such person (and only such person) by reason of these acquisition rights. As a result, the percentage of outstanding shares of any person as shown in this table does not necessarily reflect the person’s actual ownership or voting power with respect to the number of shares of common stock actually outstanding on July 14, 2020. As of July 14, 2020, there were 45,659,971 shares of our company’s common stock issued and outstanding.
+(2) Includes 1,045,446 common shares held by Alexander Group & Company PTY Ltd. Alexander Shead has voting and dispositive control over securities held by Alexander Group & Company PTY Ltd. Also includes 2,773,628 common shares held by Intrawest Overseas Limited. Securities held by Intrawest Overseas Limited are held for the financial benefit of Mr. Shead. Mr. Shead does not exercise direct voting or dispositive control over these securities.
+(3) Includes 5,912,736 common shares held by Fresh Air Investments Canada Limited. Mr. Poulter does not exercise direct voting or dispositive control over these shares. However, the Hookipa Trust is a shareholder of Fresh Air Investments Canada Limited.
+Changes in Control
+We are unaware of any contract or other arrangement or provisions of our Articles or Bylaws the operation of which may at a subsequent date result in a change of control of our company.
+Item 13.
+section_13: Item 13. Certain Relationships and Related Transactions, and Director Independence
+Other than set forth below, there have been no other transactions since the beginning of our last fiscal year or any currently proposed transactions in which we are, or plan to be, a participant and the amount involved exceeds $577,928 or one percent of the average of our total assets at year end for the last two completed fiscal years, and in which any related person had or will have a direct or indirect material interest.
+During the years ended March 31, 2020 and 2019, respectively, we incurred $2,327,560 and $1,196,497 in consultancy fees paid to the officers, directors and companies controlled by them.
+As at March 31, 2020 and March 31, 2019, we had amounts due to/from related parties as follows:
+(1)
+Fresh Air Holdings Pte, Ltd (FAH) is a wholly owned subsidiary of the Hookipa Trust. FAH provides consulting services pursuant to a consulting agreement dated December 1, 2018. The sole director of FAH is Scott Poulter, a Director of the Company effective May 8, 2017.
+Related party transactions occurred in the normal course of operations on terms and conditions that are similar to those of transactions with unrelated parties and, therefore, are measured at the exchange amount.
+Director Independence
+We currently act with four directors, Dr. Neil Carmichael, Mr. Alex Shead, Mr. Scott Poulter, and Mr. Eric Prouty. Eric Prouty qualifies as “independent director” as defined by Nasdaq Marketplace Rule 4200(a)(15).
+We do not have standing audit, compensation or nominating committees; our directors act in those capacities. We believe that our directors are capable of analyzing and evaluating our financial statements and understanding internal controls and procedures for financial reporting. To the extent that our directors are not capable of effectively performing those tasks, our directors intend to seek appropriate professional guidance. The board of directors of our company does not believe that it is necessary, given our early stage of development, to have a standing compensation or nominating committees because we believe that the functions of such committees can be adequately performed by the board of directors. We will attempt to increase the number of members on our board of directors and nominate an audit committee including a financial expert in the next fiscal year, 2020-2021.
+Item 14.
+section_14: Item 14. Principal Accounting Fees and Services
+The aggregate fees billed for the most recently completed fiscal year ended March 31, 2020 and for fiscal year ended March 31, 2019 for professional services rendered by the principal accountant for the audit of our annual financial statements and review of the financial statements included in our quarterly reports on Form 10-Q and services that are normally provided by the accountant in connection with statutory and regulatory filings or engagements for these fiscal periods were as follows:
+Fees for the year ended March 31, 2020 and 2019 relate to KPMG LLP.
+Fees charged for tax services relate to assistance in U.S. tax compliance and general Canadian tax advisory.
+Our board of directors pre-approves all services provided by our independent auditors. All of the above services and fees were reviewed and approved by the board of directors either before or after the respective services were rendered.
+Our board of directors has considered the nature and amount of fees billed by our independent auditors and believes that the provision of services for activities unrelated to the audit is compatible with maintaining our independent auditors’ independence.
+Item 15.
+section_15: Item 15. Exhibits, Financial Statement Schedules
+(a) Financial Statements
+1. Financial statements for our company are listed in the index under Item 8 of this document.
+2. All financial statement schedules are omitted because they are not applicable, not material or the required information is shown in the financial statements or notes thereto.
+(b) Exhibits
+* Filed herewith.
+SIGNATURES
+In accordance with Section 13 or 15(d) of the Exchange Act, the registrant caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the registrant and in the capacities and on the dates indicated.
+Dated: July 14, 2020 By: /s/ Scott Poulter
+Scott Poulter
+President, Secretary, Treasurer and Director
+(Principal Executive Officer)
+Dated: July 14, 2020 By: /s/ Richard Fraser-Smith
+Richard Fraser-Smith
+Chief Financial Officer
+(Principal Financial Officer and
+Principal Accounting Officer)

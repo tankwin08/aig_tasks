@@ -1,0 +1,72 @@
+We have audited the accompanying consolidated balance sheets of Dolphin Entertainment, Inc. (the “Company”) as of December 31, 2020 and 2019, the related consolidated statements of operations, stockholders’ equity, and cash flows for each of the two years in the period ended December 31, 2020, and the related notes (collectively referred to as the “consolidated financial statements”). In our opinion, the consolidated financial statements present fairly, in all material respects, the financial position of the Company at December 31, 2020 and 2019, and the results of its operations and its cash flows for each of the two years in the period ended December 31, 2020, in conformity with accounting principles generally accepted in the United States of America.
+Going Concern Uncertainty
+The accompanying consolidated financial statements have been prepared assuming that the Company will continue as a going concern. As discussed in Note 2 to the consolidated financial statements, the Company has suffered recurring losses from operations, and at December 31, 2020, has an accumulated deficit, and a working capital deficit that raise substantial doubt about the Company’s ability to continue as a going concern. Management’s plans regarding these matters are also described in Note 2. The consolidated financial statements do not include any adjustments that might result from the outcome of this uncertainty.
+Basis for Opinion
+These consolidated financial statements are the responsibility of the Company’s management. Our responsibility is to express an opinion on the Company’s consolidated financial statements based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (“PCAOB”) and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the consolidated financial statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audits we are required to obtain an understanding of internal control over financial reporting but not for the purpose of expressing an opinion on the effectiveness of the Company’s internal control over financial reporting. Accordingly, we express no such opinion.
+Our audits included performing procedures to assess the risks of material misstatement of the consolidated financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the consolidated financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the consolidated financial statements. We believe that our audits provide a reasonable basis for our opinion.
+Critical Audit Matters
+The critical audit matters communicated below are matters arising from the current period audit of the consolidated financial statements that were communicated or required to be communicated to the audit committee and that: (1) relate to accounts or disclosures that are material to the consolidated financial statements and (2) involved our especially challenging, subjective, or complex judgments. The communication of critical audit matters does not alter in any way our opinion on the consolidated financial statements, taken as a whole, and we are not, by communicating the critical audit matters below, providing separate opinions on the critical audit matters or on the accounts or disclosures to which they relate.
+Convertible Notes Payable and Warrants
+As described in Notes 3, 11 and 13 to the consolidated financial statements, the Company accounts for certain convertible notes issued during 2020 under the fair value option election of ASC 825, Financial Instruments, and accounts for detachable warrants, issued with certain of the convertible notes, as a liability. In order to determine the proper accounting for the convertible notes, an evaluation of the embedded features is required to conclude whether the convertible notes meet the criteria for the fair value option election. The valuation model used in determining the fair value of the convertible notes includes inputs subject to management's judgment, including the estimate of volatility and discount rate. In determining the proper classification of the detachable warrants, an evaluation of their features, including their settlement terms, is required in order to conclude whether the warrants should be accounted for as a liability. As of December 31, 2020, the Company had convertible notes accounted for under the fair value option of $1.5 million and warrant liability of $450,000.
+We identified the accounting for convertible notes and detachable warrants and the valuation of the convertible notes as a critical audit matter because of the complexity and judgment involved in evaluating the features of the instruments and in applying the accounting framework and judgments made by management in estimating the fair value of the convertible notes. This required a high degree of auditor judgment and an increased level of effort when performing audit procedures, including the involvement of valuation professionals with specialized skills and knowledge.
+The primary procedures we performed to address this critical audit matter included:
+·
+Utilizing professionals with specialized skills and knowledge in accounting for complex financial instruments to assist in evaluating the reasonableness of management’s interpretation of the terms of the convertible notes and warrants and the appropriateness of management’s application of the authoritative accounting guidance.
+·
+Testing the accuracy of the source data used by management in the valuation by comparing it to the debt agreement, share price, and stock register.
+·
+Utilizing personnel with specialized skills and knowledge in valuation approach and methodologies to assist in: (i) assessing the appropriateness of the methodology used in estimating the fair value of the convertible notes; (ii) evaluating the reasonableness of certain significant assumptions, such as volatility and discount rates; and (iii) developing a range of independent estimates and comparing those to the fair value of the convertible notes determined by management.
+Fair Value of Contingent Consideration
+As described in Notes 5 and 13 to the consolidated financial statements, the Company recorded a liability representing the fair value of contingent consideration for two acquisitions that is payable upon the achievement of specific financial performance targets over specified future periods. The balance of the contingent consideration liability was $530,000 as of December 31, 2020. The valuation model used in determining the fair value of the contingent consideration includes inputs subject to management's judgment, including annual asset volatility, discount rate and projections of future performance.
+We identified the valuation of contingent consideration as a critical audit matter because of the significant estimates and judgments made by management in estimating the fair value of the liability. This required a high degree of auditor judgment and an increased effort when assessing the reasonableness of the fair value estimates and assumptions, including the involvement of valuation professionals with specialized skills and knowledge.
+The primary procedures we performed to address this critical audit matter included:
+·
+Evaluating the reasonableness of the projections of future performance by comparing the projections to the acquirees’ historical results and relevant industry data.
+·
+Utilizing professionals with specialized skills and knowledge in valuation approach and methodologies to assist in (i) assessing the appropriateness of the valuation model used; and (ii) evaluating the reasonableness of certain significant assumptions, including the volatility estimate and discount rate.
+Goodwill Impairment Assessment
+As described in Note 3 to the consolidated financial statements, the Company’s consolidated goodwill was $19.6 million at December 31, 2020, which was allocated to its reporting units. The Company performs annual impairment tests of goodwill and monitors goodwill for potential indicators of impairment throughout the year. The Company concluded that triggering events occurred for certain of its reporting units and performed an interim impairment test during the first quarter of 2020. The evaluation of goodwill for impairment involves the comparison of the fair value of a reporting unit to its carrying value. Management estimated the fair values of its reporting units using a combination of the market and income approaches. Under the market approach, the reporting units’ fair value was estimated using market multiple assumptions of comparable companies in the industry. Under the income approach, a discounted cash flow methodology was utilized which included: (i) management’s estimates and assumptions, such as discount rates, terminal growth rates, and projection of revenue, operating costs and cash flows, (ii) assumptions related to general economic and market conditions, including the uncertainty resulting from the COVID-19 pandemic, and (iii) considerations of planned business and operational strategies.
+We have identified the valuation of goodwill for certain reporting units as a critical audit matter. The principal consideration for our determination was that the estimates and assumptions used in the impairment analysis were challenging to test and required significant auditor judgment, including assessing the impact of future market conditions and the COVID-19 pandemic. In addition, the audit effort involved the use of valuation professionals with specialized skills and knowledge.
+The primary procedures performed to address this critical audit matter included:
+·
+Evaluating the reasonableness of the assumptions used by management in the income approach, including: (i) evaluating the reasonableness of projected revenue and operating costs compared to recent performance; (ii) evaluating the general economic and market conditions, including the impact of the COVID-19 pandemic, on management’s assumptions, such as the growth of advertising agencies and growth in the entertainment industry; and (iii) testing the completeness, accuracy and relevance of underlying data used in the valuation models.
+·
+Testing management’s reconciliation of the estimated fair value of the Company’s reporting units to the indicated market capitalization of the Company as a whole.
+·
+Utilizing personnel with specialized skills and knowledge in valuation approach and methodologies to assist in: (i) assessing the appropriateness of the valuation methodologies, (ii) evaluating the reasonableness of certain assumptions, including the selection of guideline public companies, and benchmarking certain assumptions to available market data used in the market approach and the discount rate used in the income approach, and (iii) evaluating reasonableness of the market multiples and application of control premium for the market approach.
+/s/ BDO USA, LLP
+We have served as the Company's auditor since 2014.
+Miami, Florida
+April 15, 2021
+DOLPHIN ENTERTAINMENT, INC. AND SUBSIDIARIES
+Consolidated Balance Sheets
+As of December 31, 2020 and 2019
+(Continued)
+The accompanying notes are an integral part of these consolidated financial statements.
+DOLPHIN ENTERTAINMENT, INC. AND SUBSIDIARIES
+Consolidated Balance Sheets (Continued)
+As of December 31, 2020 and 2019
+The accompanying notes are an integral part of these consolidated financial statements.
+DOLPHIN ENTERTAINMENT, INC. AND SUBSIDIARIES
+Consolidated Statements of Operations
+For the years ended December 31, 2020 and 2019
+The accompanying notes are an integral part of these consolidated financial statements.
+DOLPHIN ENTERTAINMENT, INC AND SUBSIDIARIES
+Consolidated Statements of Cash Flows
+For the years ended December 31, 2020 and 2019
+(Continued)
+The accompanying notes are an integral part of these consolidated financial statements.
+DOLPHIN ENTERTAINMENT, INC AND SUBSIDIARIES
+Consolidated Statements of Cash Flows (Continued)
+For the years ended December 31, 2020 and 2019
+Reconciliation of cash, cash equivalents and restricted cash: The following table provides a reconciliation of cash, cash equivalents and restricted cash reported within the statement of cash flows that sum to the total of the same such amounts shown in the statement of cash flows:
+The accompanying notes are an integral part of these consolidated financial statements.
+DOLPHIN ENTERTAINMENT INC. AND SUBSIDIARIES
+Consolidated Statements of Changes in Stockholders’ Equity
+For the years ended December 31, 2020 and 2019
+The accompanying notes are an integral part of these consolidated financial statements.
+DOLPHIN ENTERTAINMENT, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+DECEMBER 31, 2020 AND 2019
+NOTE 1 - BASIS OF PRESENTATION AND ORGANIZATION

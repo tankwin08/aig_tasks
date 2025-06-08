@@ -1,0 +1,120 @@
+To value the contingent consideration, we used a Monte Carlo Simulation Model, which incorporates significant inputs that are not observable in the market, and thus represents Level 3 measurement as defined in ASC 820. The unobservable inputs utilized for measuring the fair value of the contingent consideration reflect management’s own assumptions about the assumptions that market participants would use in valuing the contingent consideration. The contingent consideration was initially measured as of the date of the merger (The Door) and acquisition (Be Social) (July 5, 2018 and August 17, 2020) and is subsequently measured at each balance sheet date with changes in the fair value between balance sheet dates, being recorded as a gain or loss in the statement of operations.
+Income Taxes
+We reported an effective tax rate of (7.7)% and (25.4)% for the years ended December 31, 2020 and 2019, respectively. We have deferred tax assets and liabilities as a result of temporary differences between financial statement carrying amounts and the tax basis of assets and liabilities. As of December 31, 2020, we had approximately $46,494,000 of net operating loss carryforwards for U.S. federal income tax purposes. We believe it is more likely than not that the deferred tax asset will not be realized and have recorded a net valuation allowance of $19,107,000 and $16,451,955 as of December 31, 2020 and 2019, respectively, which resulted in a decrease in this deferred tax account.
+Recent Accounting Pronouncements
+For a discussion of recent accounting pronouncements, see Note 3 to the audited consolidated financial statements included elsewhere in this 2020 Form 10-K.
+Off-Balance Sheet Arrangements
+As of December 31, 2020 and 2019, we did not have any off-balance sheet arrangements.
+SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS
+Certain statements in this 2020 Form 10-K contain “forward-looking statements” and information within the meaning of Section 27A of the Securities Act of 1933, as amended, or the “Securities Act”, and Section 21E of the Securities Exchange Act of 1934, as amended, or the “Exchange Act”, which are subject to the “safe harbor” created by those sections. These forward-looking statements include, but are not limited to, statements about our plans, objectives, representations and intentions and are not historical facts and typically are identified by use of terms such as “may,” “should,” “could,” “expect,” “plan,” “anticipate,” “believe,” “estimate,” “predict,” “potential,” “continue,” “will,” “would” and similar words, although some forward-looking statements are expressed differently. You should be aware that the forward-looking statements included herein represent management’s current judgment and expectations, but our actual results, events and performance could differ materially from those in the forward-looking statements. Specifically, this 2020 Form 10-K contains forward-looking statements regarding:
+·
+the effects of a challenging economy on the demand for our marketing services, on our clients’ financial condition and our business or financial condition;
+·
+the impacts of the novel coronavirus (COVID-19) pandemic and the measures to contain its spread, including social distancing efforts and restrictions on businesses, social activities and travel, any failure to realize anticipated benefits from the rollout of COVID-19 vaccination campaigns and the resulting impact on the economy, our clients and demand for our services, which may precipitate or exacerbate other risks and uncertainties;
+·
+risks associated with assumptions we make in connection with our critical accounting estimates, including changes in assumptions associated with any effects of a weakened economy;
+·
+potential adverse effects if we are required to recognize impairment charges or other adverse accounting-related developments;
+·
+our expectations regarding the potential benefits and synergies we can derive from our acquisitions;
+·
+our expectations to offer clients a broad array of interrelated services, the impact of such strategy on our future profitability and growth and our belief regarding our resulting market position;
+·
+our beliefs regarding our competitive advantages;
+·
+our expectations regarding increased movie marketing budgets at several large key clients and the impact of such increased budgets on revenue and profit in our entertainment publicity and marketing segment over the next several years;
+·
+our intention to hire new individuals or teams whose existing books of business and talent rosters can be accretive to revenues and profits of the business and our expectations regarding the impact of such additional hires on the growth of our revenues and profits;
+·
+our beliefs regarding the drivers of growth in the entertainment publicity and marketing segment, the timing of such anticipated growth trend and its resulting impact on the overall revenue;
+·
+our intention to expand into television production in the near future;
+·
+our belief regarding the transferability of 42West, The Door, Shore Fire, Viewpoint and Be Social’s skills and experience to related business sectors and our intention to expand our involvement in those areas;
+·
+our intention to grow and diversify our portfolio of film and digital content and our beliefs regarding our strategies to accomplish such growth and diversification;
+·
+our beliefs regarding the impact of our strategic focus on content and creation of innovative content distribution strategies on our competitive position in the industry, use of capital, growth and long-term shareholder value;
+·
+our plan to balance our financial risks against the probability of commercial success for each project;
+·
+our intention to selectively pursue complementary acquisitions to enforce our competitive advantages, scale and grow, our belief that such acquisitions will create synergistic opportunities and increased profits and cash flows, and our expectation regarding the timing of such acquisitions;
+·
+our expectations concerning our ability to derive future cash flows and revenues from the production, release and advertising of future web series on online platforms, and the timing of receipt of such cash flows and revenues;
+·
+our expectations concerning the timing of production and release of future feature films and digital projects, our intention to obtain financing for such projects and our target demographics;
+·
+our intention to use our purchased scripts for future motion picture and digital productions;
+·
+our expectations to raise funds through loans, additional sales of our common stock, securities convertible into our common stock, debt securities or a combination of financing alternatives;
+·
+our beliefs regarding the outcome of litigation to which we are a party, that arise in the ordinary course of business; and
+·
+our intention to implement improvements to address material weaknesses in internal control over financial reporting.
+These forward-looking statements reflect our current views about future events and are subject to risks, uncertainties and assumptions. We wish to caution readers that certain important factors may have affected and could in the future affect our actual results and could cause actual results to differ significantly from those expressed in any forward-looking statement. The most important factors that could prevent us from achieving our goals, and cause the assumptions underlying forward-looking statements and the actual results to differ materially from those expressed in or implied by those forward-looking statements include, but are not limited to, the following:
+·
+our ability to continue as a going concern;
+·
+our history of net losses and our ability to generate a profit;
+·
+our significant indebtedness and our ability to obtain additional financing or service the existing indebtedness;
+·
+the effect of the COVID-19 outbreak on our business and operations;
+·
+our ability to realize the anticipated benefits of the acquisitions we have made, including synergies, expanded interrelated service offerings, growth and increased revenues;
+·
+our ability to accurately predict our clients’ acceptance of our differentiated business model that offers interrelated services;
+·
+our ability to successfully identify and complete acquisitions in line with our growth strategy and anticipated timeline, and to realize the anticipated benefits of those acquisitions;
+·
+our ability to accurately interpret trends and predict future demand in the digital media and film industries;
+·
+our ability to comply with terms and covenants in our term loan;
+·
+our ability to maintain compliance with Nasdaq listing requirements;
+·
+our ability to obtain forgiveness of our PPP Loans;
+·
+adverse events, trends and changes in the entertainment or entertainment marketing industries that could negatively impact our operations and ability to generate revenues;
+·
+loss of a significant number of entertainment publicity and marketing clients;
+·
+the ability of key clients to increase their marketing budgets as anticipated;
+·
+our ability to continue to successfully identify and hire new individuals or teams who will provide growth opportunities;
+·
+uncertainty that our strategy of hiring of new individuals or teams will positively impact our revenues and profits;
+·
+lack of demand for strategic communications services by traditional and non-traditional media clients who are expanding their activities in the content production, branding and consumer products PR sectors;
+·
+unpredictability of the commercial success of our future web series and motion pictures;
+·
+economic factors that adversely impact the entertainment industry, as well as advertising, production and distribution revenue in the online and motion picture industries;
+·
+economic factors that adversely impact the food and hospitality industries, such as those economic factors from the global outbreak of COVID-19;
+·
+our ability to identify, produce and develop online digital entertainment and motion pictures that meet industry and customer demand;
+·
+competition for talent and other resources within the industry and our ability to enter into agreements with talent under favorable terms;
+·
+our ability to attract and/or retain the highly specialized services of the 42West, The Door, Viewpoint, Shore Fire and Be Social executives and employees and our CEO;
+·
+availability of financing from investors under favorable terms;
+·
+our ability to adequately address material weaknesses in internal control over financial reporting; and
+·
+uncertainties regarding the outcome of pending litigation.
+The foregoing list of important factors does not include all such factors, nor necessarily present them in order of importance. In addition, you should consult other disclosures made by the Company (such as in our other filings with the SEC or in Company press releases) for other factors that may cause actual results to differ materially from those projected by the Company. Please refer to Part I, Item 1A, Risk Factors of this 2020 Form 10-K for additional information regarding factors that could affect the Company’s results of operations, financial condition and liquidity. Any forward-looking statements, which we make in this 2020 Form 10-K, speak only as of the date of such statement, and we undertake no obligation to update such statements, except as otherwise required by applicable law. We can give no assurance that such forward-looking statements will prove to be correct. An occurrence of, or any material adverse change in, one or more of the risk factors or risks and uncertainties referred to in this report or included in our other periodic reports filed with the SEC could materially and adversely impact our operations and our future financial results. Comparisons of results for current and any prior periods are not intended to express any future trends or indications of future performance, unless expressed as such, and should only be viewed as historical data.
+Any public statements or disclosures made by us following this report that modify or impact any of the forward-looking statements contained in or accompanying this report will be deemed to modify or supersede such outlook or other forward-looking statements in or accompanying this report.
+ITEM 7A.
+section_7A: ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+Not required for smaller reporting companies.
+ITEM 8.
+section_8: ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+The financial statements required by this Item 8 are included at the end of this Report beginning on page as follows:
+ITEM 9.
+section_9: ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE
+None.
+ITEM 9A.
+section_9A: ITEM 9A. CONTROLS AND PROCEDURES
+Management’s Report on the Effectiveness of Disclosure Controls and Procedures

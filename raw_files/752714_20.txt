@@ -1,0 +1,96 @@
+Facility rent expense was $3.7 million in 2020, $3.9 million in 2019 and $3.5 million in 2018.
+The Company is involved in various lawsuits and routine claims arising out of the normal course of its business. The Company maintains insurance coverage for its operations and employees with appropriate aggregate, per occurrence and deductible limits as the Company reasonably determines necessary or prudent with current operations and historical experience. The major policies include coverage for property, general liability, auto, directors and officers, health, and workers’ compensation insurances. The Company records a provision for a liability when it believes that it is both probable that a liability has been incurred and the amount can be reasonably estimated. Significant judgment is required to determine both probability and the estimated amount. The Company reviews these provisions at least quarterly and adjusts these provisions to reflect the impact of negotiations, settlements, rulings, advice of legal counsel, and updated information. Litigation is inherently unpredictable and is subject to significant uncertainties, some of which are beyond the Company’s control. In the opinion of management, there was not at least a reasonable possibility that the ultimate amount of liability not covered by insurance, if any, under any pending litigation and claims, individually or in the aggregate, will have a material adverse effect on the financial position or operating results of the Company.
+The Company’s health plans are self-funded high deductible plans with annual stop-loss insurance of $200,000 per claim. Beginning in 2019, the Company’s workers compensation insurance is underwritten by an insurance company with no stop-loss value and $350,000 for prior claim years. Insurance providers are responsible for making claim payments that exceed these amounts on an individual claim basis. In addition, the Company has stop loss insurance that pays for claim payments made during a twelve month coverage period that exceeds certain specified thresholds in the aggregate. The Company records an expense when health and workers compensation claim payments are made and accrues for the portion of claims incurred, but not yet paid at period end. The Company makes these accruals based upon a combination of historical claim payments, loss development experience and actuarial estimates. A high degree of judgment is required in developing the underlying assumptions and the resulting amounts to be accrued. In addition, our assumptions will change as the Company’s loss experience develops. All of these factors have the potential for impacting the amounts previously accrued and the Company may be required to increase or decrease the amounts previously accrued. At December 31, 2020 and 2019, accruals for the Company’s health and workers’ compensation high deductible plans were $2.2 million and $2.8 million, respectively.
+NOTE 11. INTANGIBLE ASSETS
+Intangible assets consist of the following:
+Intangible assets with finite useful lives are amortized over their respective useful lives. Amortization expense in the years ended December 31, 2020, 2019 and 2018 was $0.2 million, $0.9 million and $0.9 million, respectively. Based on the carrying values at December 31, 2020 and assuming no subsequent impairment of the underlying assets, the annual amortization is expected to be $0.2 million in 2021 and $0.2 million in 2022 through 2026.
+NOTE 12. RELATED PARTY TRANSACTIONS
+There were no related party transactions in the years ended December 31, 2020 and 2019, or amounts owed to related parties at such dates.
+NOTE 13. SEGMENT REPORTING
+FASB guidelines establish annual and interim reporting standards for an enterprise’s operating segments and related disclosures about its products, services, geographic areas and major customers. In accordance with these guidelines the Company’s four reportable segments are Mobile Modular, TRS-RenTelco, Adler Tanks and Enviroplex. Management focuses on several key measures to evaluate and assess each segment’s performance including rental revenue growth, gross margin, and income before provision for income taxes. Excluding interest expense, allocations of revenue and expense not directly associated with one of these segments are generally allocated to Mobile Modular, TRS-RenTelco and Adler Tanks, based on their pro-rata share of direct revenues. Interest expense is allocated amongst Mobile Modular, TRS-RenTelco and Adler Tanks based on their pro-rata share of average rental equipment at cost, goodwill, intangible assets, accounts receivable, deferred income and customer security deposits. The Company does not report total assets by business segment. Summarized financial information for the years ended December 31, 2020, 2019 and 2018, for the Company’s reportable segments is shown in the following tables:
+1Gross Enviroplex sales revenues were $34,014, $39,814 and $30,407 in 2020, 2019 and 2018, respectively. There were $1,277 and $1,361 inter-segment sales to Mobile Modular in 2020 and 2018, which have been eliminated in consolidation. There were no inter-segment sales in 2019.
+2Utilization is calculated each month by dividing the cost of rental equipment on rent by the total cost of rental equipment excluding new equipment inventory and accessory equipment. The average utilization for the period is calculated using the average costs of rental equipment.
+No single customer accounted for more than 10% of total revenues during 2020, 2019 and 2018. Revenue from foreign country customers accounted for 4%, 5% and 4% of the Company’s revenues for the same periods, respectively.
+NOTE 14. QUARTERLY FINANCIAL INFORMATION (unaudited)
+Quarterly financial information for each of the two years ended December 31, 2020 is summarized below:
+ITEM 9.
+section_9: ITEM 9.
+CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE.
+None.
+ITEM 9A.
+section_9A: ITEM 9A.
+CONTROLS AND PROCEDURES.
+Evaluation of Disclosure Controls and Procedures. The Company’s management under the supervision and with the participation of the Company’s Chief Executive Officer (“CEO”) and Chief Financial Officer (“CFO”) is responsible for establishing and maintaining “disclosure controls and procedures” (as defined in rules promulgated under the Securities Exchange Act of 1934, as amended) for the Company. Based on their evaluation the CEO and CFO have concluded that the Company’s disclosure controls and procedures were effective as of December 31, 2020.
+Changes in Internal Control over Financial Reporting. During the last quarter of the Company’s fiscal year ended December 31, 2020, there were no changes in the Company’s internal control that have materially affected, or are reasonably likely to materially affect, the Company’s internal control over financial reporting.
+Limitations on the Effectiveness of Controls. A control system, no matter how well conceived and operated, can provide only reasonable, not absolute, assurance that the objectives of the control system are met. Because of the inherent limitations in all control systems, no evaluation of controls can provide absolute assurance that all control issues, if any, within a company have been detected. The Company’s disclosure controls and procedures are designed to provide reasonable assurance of achieving their objectives, and the CEO and CFO have concluded that these controls and procedures are effective at the “reasonable assurance” level.
+Management’s Assessment of Internal Control. Management’s assessment of the effectiveness of the Company’s internal control over financial reporting as of December 31, 2020, is discussed in the Management’s Report on Internal Control Over Financial Reporting included on page 57.
+The effectiveness of the Company’s internal control over financial reporting as of December 31, 2020 has been audited by Grant Thornton LLP, the Company’s independent registered public accounting firm, and its report is included in this Annual Report on Form 10-K.
+ITEM 9B.
+section_9B: ITEM 9B.
+OTHER INFORMATION.
+None.
+PART III
+ITEM 10.
+section_10: ITEM 10.
+DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE.
+The information required by this Item is incorporated by reference to McGrath RentCorp’s definitive Proxy Statement with respect to its 2021 Annual Meeting of Shareholders to be held on June 9, 2021.
+ITEM 11.
+section_11: ITEM 11.
+EXECUTIVE COMPENSATION.
+The information required by this Item is incorporated by reference to McGrath RentCorp’s definitive Proxy Statement with respect to its 2021 Annual Meeting of Shareholders to be held on June 9, 2021.
+ITEM 12.
+section_12: ITEM 12.
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS.
+The information required by this Item is incorporated by reference to McGrath RentCorp’s definitive Proxy Statement with respect to its 2021 Annual Meeting of Shareholders to be held on June 9, 2021.
+ITEM 13.
+section_13: ITEM 13.
+CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS AND DIRECTOR INDEPENDENCE.
+The information required by this Item is incorporated by reference to McGrath RentCorp’s definitive Proxy Statement with respect to its 2021 Annual Meeting of Shareholders to be held on June 9, 2021.
+ITEM 14.
+section_14: ITEM 14.
+PRINCIPAL ACCOUNTING FEES AND SERVICES.
+The information required by this Item is incorporated by reference to McGrath RentCorp’s definitive Proxy Statement with respect to its 2021 Annual Meeting of Shareholders to be held on June 9, 2021.
+PART IV
+ITEM 15.
+section_15: ITEM 15.
+EXHIBITS, FINANCIAL STATEMENT SCHEDULES.
+Index of documents filed as part of this report:
+Schedules and exhibits required by Article 5 of Regulation S-X other than those listed are omitted because they are not required, are not applicable, or equivalent information has been included in the consolidated financial statements, and notes thereto, or elsewhere herein.
+Number
+Description
+Method of Filing
+3.1
+Articles of Incorporation of McGrath RentCorp. ‘P’
+Filed as exhibit 19.1 to the Company’s Quarterly Report on Form 10-Q for the quarter ended June 30, 1988 (filed August 14, 1988), and incorporated herein by reference.
+3.1.1
+Amendment to Articles of Incorporation of McGrath RentCorp. ‘P’
+Filed as exhibit 3.1 to the Company’s Registration Statement on Form S-1 (filed March 28, 1991 Registration No. 33-39633), and incorporated herein by reference.
+3.1.2
+Amendment to Articles of Incorporation of McGrath RentCorp.
+Filed as exhibit 3.1.2 to the Company’s Annual Report on Form 10-K for the year ended December 31, 1997 (filed March 31, 1998), and incorporated herein by reference.
+3.2
+Amended and Restated Bylaws
+Filed as exhibit 3.1 to the Company’s Current Report on Form 8-K (filed January 6, 2021) and incorporated herein by reference.
+4.1
+Amended and Restated Note Purchase and Private Shelf Agreement between the Company and PGIM, Inc., dated March 31, 2020.
+Filed as exhibit 10.1 to the Company’s Current Report on Form 8-K (filed April 3, 2020), and incorporated herein by reference.
+4.1.1
+Amendment, dated as of March 17, 2014, to the Note Purchase and Private Shelf Agreement dated as of April 21, 2011 among the Company, Prudential Investment Management, Inc., The Prudential Insurance Company of America and Prudential Retirement Insurance and Annuity Company.
+Filed as exhibit 10.1 to the Company’s Current Report on Form 8-K (filed March 20, 2014) and incorporated herein by reference.
+4.1.2
+Amendment, dated as of February 9, 2016, to the Note Purchase and Private Shelf Agreement dated as of April 21, 2011 among the Company, Prudential Investment Management, Inc., The Prudential Insurance Company of America and Prudential Retirement Insurance and Annuity Company, as amended on March 17, 2014.
+Filed as exhibit 10.1 to the Company’s Current Report on Form 8-K (filed February 11, 2016) and incorporated herein by reference.
+4.2
+Credit Agreement dated as of March 31, 2020 among the Company, Bank of America, N.A. as Administrative Agent, Swing Line Lender and L/C Issuer, and The Other Lenders Party thereto.
+Filed as exhibit 10.1 to the Company’s Current Report on Form 8-K (filed April 3, 2020) and incorporated herein by reference.
+4.2.1
+Guaranty dated as of March 31, 2020 among certain domestic subsidiaries of the Company in favor of Bank of America, N.A., in its capacity as the administrative agent for the Lenders.
+Filed as exhibit 10.2 to the Company’s Current Report on Form 8-K (filed April 3, 2020) and incorporated herein by reference.
+4.2.2
+$12,000,000 committed Amended and Restated Credit Facility Letter Agreement between the Company and MUFG Union Bank, N.A., dated as of March 31, 2020.
+Filed as exhibit 10.3 to the Company’s Current Report on Form 8-K (filed April 3, 2020) and incorporated herein by reference.
+4.2.3
+$12,000,000 Amended and Restated Credit Line Note, dated March 31, 2020, in favor of MUFG Union Bank, N.A.
+Filed as exhibit 10.4 to the Company’s Current Report on Form 8-K (filed April 3, 2020) and incorporated herein by reference.
+4.3
+Description of Registrant’s Securities.

@@ -1,0 +1,67 @@
+In December 2016, the Company purchased convertible preferred shares of a company (the “2016 Investee”) that provides a mobile app for restaurant reservations for an aggregate price of $10.0 million. In conjunction with this transaction, the 2016 Investee issued warrants, at no cost, to the Company to purchase additional shares, which were exercised in 2018. Prior to exercise, the Company marked-to-market and recorded unrealized losses on the warrants, which were not material for the year ended December 31, 2018. In July 2019, the 2016 Investee was acquired by a third party, resulting in a gain of $24.6 million recorded in other income (expense), net in the consolidated statements of operations.
+Airbnb, Inc.
+Notes to Consolidated Financial Statements
+Note 5. Fair Value Measurements and Financial Instruments
+The following table summarizes the Company’s financial assets and liabilities measured at fair value on a recurring basis (in thousands):
+Airbnb, Inc.
+Notes to Consolidated Financial Statements
+The following table presents additional information about investments that are measured at fair value for which the Company has utilized Level 3 inputs to determine fair value (in thousands):
+There were no transfers of financial instruments between valuation levels during the years ended December 31, 2019 and 2020.
+Airbnb, Inc.
+Notes to Consolidated Financial Statements
+The following table presents additional information about valuation techniques and inputs used for investments that are measured at fair value and categorized within Level 3 as of December 31, 2020 (fair value amounts in thousands):
+Derivatives Not Designated as Hedging Instruments
+As of December 31, 2019, the fair value of foreign exchange derivative assets and liabilities totaled $5.3 million and $0.5 million, respectively, with the aggregate notional amount totaling $516.7 million. As of December 31, 2020, the fair value of foreign exchange derivative assets and liabilities totaled $12.5 million and $32.3 million, respectively, with the aggregate notional amount totaling $1.4 billion. Derivative assets are included in prepaids and other current assets and derivative liabilities are included in accrued expenses and other current liabilities in the consolidated balance sheets. The Company did not have any non-designated derivatives during the year ended December 31, 2018.
+The Company recorded total net realized gains (losses) of $(2.0) million and $(21.7) million and net unrealized gains (losses) of $4.8 million and $(24.6) million for the years ended December 31, 2019 and 2020, respectively, related to foreign exchange derivative assets and liabilities. The realized and unrealized gains and losses on non-designated derivatives are reported in other income (expense), net in the consolidated statements of operations. The cash flows related to derivative instruments not designated as hedging instruments are classified within operating activities in the consolidated statements of cash flows.
+The Company has master netting arrangements with the respective counterparties to its derivative contracts, which are designed to reduce credit risk by permitting net settlement of transactions with the same counterparty. The Company presents its derivative assets and derivative liabilities at their gross fair values in its consolidated balance sheets. As of December 31, 2019, the potential effect of these rights of
+set-off associated with the Company’s derivative contracts would be a reduction to both assets and liabilities of $0.5 million, resulting in net derivative assets of $4.8 million. As of December 31, 2020, the potential effect of these rights of set-off associated with the Company’s derivative contracts would be a reduction to both assets and liabilities of $11.4 million, resulting in net derivative assets of $1.1 million and net derivative liabilities of $20.9 million.
+Note 6. Acquisitions
+HotelTonight
+On April 15, 2019, the Company completed the acquisition of Hotel Tonight, Inc. (“HotelTonight”), an online marketplace for boutique hotel rentals, to enhance the Company’s offerings in the hotel accommodations space.
+The Company acquired all outstanding shares of HotelTonight for a total purchase consideration of $441.4 million funded primarily with cash and 3.2 million shares of the Company’s Class A common stock. The aggregate purchase consideration for HotelTonight was comprised of the following (in thousands):
+Cash consideration included reimbursement of acquisition-related transaction costs of $11.3 million incurred by HotelTonight to execute the transaction. Additionally, the Company recognized $3.9 million of acquisition-related costs, recorded as general and administrative expenses in its consolidated statements of operations.
+Certain unvested stock options held by HotelTonight employees were assumed by the Company in connection with the acquisition. The portion of the fair value of the assumed stock options associated with pre-acquisition service of HotelTonight employees represented a component of the total purchase consideration, as presented above. The remaining fair value of $12.3 million of these issued awards was excluded from the purchase price. These awards, which are subject to the recipients’ continued service with the Company, will be recognized ratably as stock-based compensation expense over the requisite service period.
+Airbnb, Inc.
+Notes to Consolidated Financial Statements
+The following table summarizes the final allocation of the purchase consideration to the fair value of the assets acquired and liabilities assumed:
+Goodwill is primarily attributable to the assembled workforce and anticipated synergies and economies of scale expected from the integration of the acquired business. The identified intangible assets assumed in the acquisition were recognized as follows based upon their fair values as of the acquisition date (in thousands):
+The Company’s consolidated financial statements include the accounts of HotelTonight starting as of the acquisition date.
+Other Acquisitions
+During the year ended December 31, 2018, the Company completed various business combinations and asset purchases for total consideration of $40.3 million, of which $31.3 million was cash. Of the total consideration for these acquisitions, $31.9 million was attributed to goodwill, $8.1 million was attributed to intangible assets, and the amount attributed to the remaining net assets acquired was not material.
+During the year ended December 31, 2019, the Company completed two business combinations in addition to the HotelTonight acquisition described above for total consideration of $63.3 million, of which $11.4 million was paid in cash, $36.7 million was paid in shares of the Company’s Class A common stock, and $15.3 million was contingent consideration. Of the total consideration for these acquisitions, $33.8 million was attributed to goodwill, $31.7 million was attributed to intangible assets, and $2.2 million was attributed to other net liabilities.
+In connection with an acquisition made in 2019, consideration in the form of equity will be earned contingent upon meeting certain milestones based on cumulative booking values. The contingent consideration was valued as of the acquisition date using a Monte Carlo simulation model with varying assumptions including booking projections and probability of achievement through the performance period, which ends in 2025. The contingent consideration is marked to market at each reporting period with changes in fair value recorded in sales and marketing expense, given that the contingent consideration is dependent on selling related activities. For the years ended December 31, 2019 and 2020, the changes in the fair value of the contingent consideration liability were not material and $30.9 million, respectively. During the year ended December 31, 2020, certain performance milestones were met resulting in the vesting of equity to the acquiree with a fair value of $22.4 million. No performance milestones were met for the year ended December 31, 2019.
+For all intangible assets acquired during the years ended December 31, 2018 and 2019, the weighted-average useful life was 2.3 years and 5.4 years, respectively. There were no acquisitions completed during the year ended December 31, 2020.
+Each of these acquisitions, including the acquisition of HotelTonight, was made to enhance the Company’s offerings and expand the Company’s expertise in engineering and other functional areas. The amount of goodwill deductible for income tax purposes was $11.7 million and $15.0 million as of December 31, 2018 and 2019, respectively. Pro forma and historical post-acquisition results of operations for acquisitions completed during the years ended December 31, 2018 and 2019 were not material to the Company’s consolidated statements of operations.
+Airbnb, Inc.
+Notes to Consolidated Financial Statements
+Note 7. Intangible Assets and Goodwill
+Intangible Assets
+Identifiable intangible assets resulting from business combinations and asset purchases consisted of the following (in thousands):
+Amortization expense related to intangible assets for the years ended December 31, 2018, 2019, and 2020 was $22.0 million, $46.1 million, and $36.2 million, respectively.
+Estimated future amortization expense for intangible assets as of December 31, 2020 was as follows (in thousands):
+Goodwill
+The changes in the carrying amount of goodwill for the years ended December 31, 2019 and 2020 were as follows (in thousands):
+Airbnb, Inc.
+Notes to Consolidated Financial Statements
+Note 8. Property and Equipment, Net
+Property and equipment, net, consisted of the following (in thousands):
+Depreciation and amortization expense related to property and equipment for the years ended December 31, 2018, 2019, and 2020 was $60.4 million, $68.0 million, and $89.7 million, respectively.
+During the years ended December 31, 2018, 2019, and 2020, amortization of capitalized internal-use software costs was $12.4 million, $10.9 million, and $22.5 million, respectively. The net carrying value of capitalized internal-use software as of December 31, 2019 and 2020 was $24.1 million and $76.6 million, respectively.
+Note 9. Leases
+The Company’s material operating leases consist of office space and data center space. The Company’s leases generally have remaining terms of one to 18 years, some of which include options to extend the leases up to five years. Additionally, some lease contracts include termination options. Generally, the lease term is the minimum of the non-cancelable period of the lease or the lease term inclusive of reasonably certain renewal periods.
+The components of lease cost were as follows (in thousands):
+(1) Classified within operations and support, product development, sales and marketing, and general and administrative expenses in the consolidated statements of operations.
+(2) Classified within other income (expense), net on the consolidated statements of operations.
+Airbnb, Inc.
+Notes to Consolidated Financial Statements
+Supplemental disclosures of cash flow information related to leases were as follows (in thousands):
+Lease term and discount rate were as follows:
+Maturities of lease liabilities (excluding short-term leases) were as follows as of December 31, 2020 (in thousands):
+Note 10. Accrued Expenses and Other Current Liabilities
+Accrued expenses and other current liabilities consisted of the following (in thousands):
+Airbnb, Inc.
+Notes to Consolidated Financial Statements
+Note 11. Debt
+The following table summarizes the Company’s outstanding debt (in thousands):
+Term Loans
+In April 2020, the Company entered into a $1.0 billion First Lien Credit and Guaranty Agreement (the “First Lien Credit Agreement,” and the loans thereunder, the “First Lien Loan”), resulting in proceeds of $961.4 million, net of debt discount and debt issuance costs of $38.6 million. The loan is due and payable in April 2025. The underlying loan can be repaid in whole or in part prior to April 2025 at the Company’s option, subject to applicable prepayment premiums and make-whole premiums. Beginning in September 2020, the Company is required to repay the First Lien Loan in quarterly installments equal to 0.25% of the $1.0 billion aggregate principal amount of the First Lien Loan, with the remaining principal amount payable on the maturity date. Additionally, the First Lien Credit Agreement requires the Company to prepay in cash all or a portion of outstanding First Lien Loan, plus any applicable prepayment premiums and make-whole premiums, in the event of non-ordinary course asset sales or other dispositions of property, or incurrence or issuance of any indebtedness, subject to certain exceptions. The Company can select a per annum interest rate equal to (i) 7.5% plus the London Interbank Offered Rate (customarily defined, with LIBOR replacement provisions consistent with the April 2019 Alternative Reference Rates Committee recommended fallback language for syndicated loans, “LIBOR”), subject to a floor of 1.0%, or (ii) 6.5% plus the greatest of (a) the prime rate, (b) the federal funds effective rate plus 0.5%, and (c) LIBOR for a one-month period plus 1%, in each case subject to a floor of 2%. Interest is payable monthly or quarterly in arrears at the Company’s option depending on the selected per annum interest rate and interest period.

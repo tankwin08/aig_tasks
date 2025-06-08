@@ -1,0 +1,37 @@
+10.70 Asset Purchase Agreement, dated as January 31, 2018, by and among HMA Fentress County General Hospital, LLC, Jamestown HMA Physician Management, LLC, Jamestown TN Medical Center, Inc., CHS/Community Health Systems, Inc. and Rennova Health, Inc. (incorporated by reference to Exhibit 10.162 of the Company’s Current Report on Form 8-K filed with the SEC on February 6, 2018).
+10.71 Common Stock Purchase Agreement, dated as of February 14, 2018, by and among Rennova Health, Inc. and the purchasers named on the signature pages thereto (incorporated by reference to Exhibit 10.163 of the Company’s Current Report on Form 8-K filed with the SEC on February 15, 2018).
+10.72 Form of Additional Issuance Agreement, dated as of March 5, 2018 (incorporated by reference to Exhibit 10.164 of the Company’s Current Report on Form 8-K filed with the SEC on March 6, 2018).
+10.73 Amendment to Prepaid Forward Purchase Agreement, dated as of March 24, 2017, between Racine FundingCo, LLC, on the one hand, and Rennova Health, Inc., Biohealth Medical Laboratory, Inc. and PB Laboratories, LLC, on the other hand, and Christopher Diamantis, as Guarantor (incorporated by reference to Exhibit 10.165 of the Company’s Current Report on Form 8-K filed with the SEC on April 6, 2018).
+10.74 Second Amendment to Prepaid Forward Purchase Agreement, dated as of March 30, 2018, between Racine FundingCo, LLC, on the one hand, and Rennova Health, Inc., Biohealth Medical Laboratory, Inc. and PB Laboratories, LLC, on the other hand, and Christopher Diamantis, as Guarantor (incorporated by reference to Exhibit 10.166 of the Company’s Current Report on Form 8-K filed with the SEC on April 6, 2018).
+10.75 Form of Additional Issuance Agreement, dated as of May 13, 2018 (incorporated by reference to Exhibit 10.166 of the Company’s Current Report on Form 8-K filed with the SEC on May 14, 2018).
+10.76 Form of Additional Issuance Agreement, dated as of May 20, 2018 (incorporated by reference to Exhibit 10.167 of the Company’s Current Report on Form 8-K filed with the SEC on May 21, 2018).
+10.77 Form of Additional Issuance Agreement, dated as of June 27, 2018 (incorporated by reference to Exhibit 10.168 of the Company’s Current Report on Form 8-K filed with the SEC on June 28, 2018).
+10.78 Form of Additional Issuance Agreement, dated as of July 16, 2018 (incorporated by reference to Exhibit 10.169 of the Company’s Current Report on Form 8-K filed with the SEC on July 16, 2018).
+10.79 Exchange Agreement, dated as of July 23, 2018, between Rennova Health, Inc. and Alcimede LLC (incorporated by reference to Exhibit 10.170 of the Company’s Current Report on Form 8-K filed with the SEC on July 24, 2018).
+10.80 Series B Warrant Extension Agreement, dated September 14, 2018, between Rennova Health, Inc. and the investors signatory thereto (incorporated by reference to Exhibit 10.171 of the Company’s Current Report on Form 8-K filed with the SEC on September 17, 2018).
+10.81 Asset Purchase Agreement, dated as of February 22, 2019, by and among Jellico Community Hospital, Inc., CarePlus Rural Health Clinic, LLC, Jellico Medical Center, Inc., Community Hospital Corporation and Rennova Health, Inc. (incorporated by reference to Exhibit 10.173 of the Company’s Current Report on Form 8-K filed with the SEC on February 28, 2019).
+10.82 Form of Bridge Debenture Agreement, dated as of May 12, 2019 (incorporated by reference to Exhibit 10.173 of the Company’s Current Report on Form 8-K filed with the SEC on May 15, 2019).
+10.83 Form of Bridge Debenture Agreement, dated as of June 13, 2019 (incorporated by reference to Exhibit 10.174 of the Company’s Current Report on Form 8-K filed with the SEC on June 14, 2019).
+10.84 Form of Bridge Debenture Agreement, dated as of June 24, 2019 (incorporated by reference to Exhibit 10.175 of the Company’s Current Report on Form 8-K filed with the SEC on June 25, 2019).
+10.85 Form of Promissory Note, dated September 27, 2019 (incorporated by reference to Exhibit 10.176 of the Company’s Current Report on Form 8-K filed with the SEC on October 2, 2019).
+10.86 Exchange Agreement, dated as of December 23, 2019, between Rennova Health, Inc. and Alcimede LLC (incorporated by reference to Exhibit 10.177 of the Company’s Current Report on Form 8-K filed with the SEC on December 27, 2019).
+10.87 Form of Promissory Note, with Evolve Bank & Trust (incorporated by reference to Exhibit 10.1 of the Company’s Current Report on Form 8-K filed with the SEC on May 12, 2020).
+10.88 Exchange Agreement, dated as of June 30, 2020, between Rennova Health, Inc. and Christopher Diamantis (incorporated by reference to Exhibit 10.1 of the Company’s Current Report on Form 8-K filed with the SEC on July 8, 2020).
+10.89 Voting Agreement and Irrevocable Proxy, dated as of August 13, 2020, by and among Rennova Health, Inc., Seamus Lagan, Alcimede LLC and Christopher Diamantis (incorporated by reference to the Company’s Quarterly Report on Form 10-Q filed with the SEC on August 13, 2020).
+10.90 Form of Exchange, Redemption and Forbearance Agreement, dated as of August 31, 2020, among Rennova Health, Inc., Christopher Diamantis and the investor signatory thereto (incorporated by reference to Exhibit 10.1 of the Company’s Current Report on Form 8-K filed with the SEC on September 1, 2020).
+List of Subsidiaries of the Registrant (incorporated by reference to Exhibit 21 of the Company’s Annual Report on Form 10-K for the year ended December 31, 2018 filed with the SEC on October 21, 2019).
+23.1 Consent of Independent Public Accounting Firm - Haynie & Company (2)
+31.1 Section 302 Certification of the Chief Executive Officer (2)
+31.2 Section 302 Certification of the Interim Chief Financial Officer (2)
+32.1 Section 906 Certification of the Chief Executive Officer (3)
+32.2 Section 906 Certification of the Interim Chief Financial Officer (3)
+101.INS XBRL Instance Document. (2)
+101.SCH XBRL Taxonomy Extension Schema Document. (2)
+101.CAL XBRL Taxonomy Extension Calculation Linkbase Document. (2)
+101.DEF XBRL Taxonomy Extension Definition Linkbase Document. (2)
+101.LAB XBRL Taxonomy Extension Label Linkbase Document. (2)
+101.PRE XBRL Taxonomy Extension Presentation Linkbase Document. (2)
+(1) The exhibits to the Agreement and Plan of Merger have been omitted from this filing pursuant to Item 601(b)(2) of Regulation S-K. Rennova Health, Inc. will furnish copies of any such schedules and exhibits to the U.S. Securities and Exchange Commission upon request.
+(2) Filed herewith
+(3) Furnished herewith
+** Management contract for compensatory plan or arrangement.
