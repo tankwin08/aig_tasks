@@ -6,9 +6,13 @@ readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
     "datasets>=3.6.0",
+    "faiss-cpu>=1.11.0",
     "ipykernel>=6.29.5",
+    "langchain>=0.3.25",
+    "langchain-community>=0.3.25",
     "matplotlib>=3.10.3",
     "pyspark==3.4.4",
+    "rank-bm25>=0.2.2",
     "seaborn>=0.13.2",
     "sentence-transformers>=4.1.0",
 ]
